@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "Petite amie IA"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "Quels types de films aimes-tu?"
+   },
+   {
+    "id": 58,
+    "question": "As-tu passé une bonne journée?"
+   },
+   {
+    "id": 59,
+    "question": "Quels sont tes projets pour l'avenir?"
+   },
+   {
+    "id": 60,
+    "question": "Quelle est, selon toi, la plus heureuse moment dans la vie?"
+   },
+   {
+    "id": 61,
+    "question": "As-tu des idées pour notre dîner ce soir?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "Petit ami IA"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "Quelle est ton idée d'un rendez-vous parfait?"
+   },
+   {
+    "id": 63,
+    "question": "Si nous pouvions aller n'importe où dans le monde, où voudrais-tu aller?"
+   },
+   {
+    "id": 64,
+    "question": "Quel type de musique aimes-tu écouter?"
+   },
+   {
+    "id": 65,
+    "question": "Quelque chose d'excitant ou d'intéressant s'est-il passé récemment?"
+   },
+   {
+    "id": 66,
+    "question": "Je me sens un peu déprimé aujourd'hui. Des suggestions pour remonter mon moral?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Chef"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Peux-tu suggérer un repas riche en protéines et faible en graisses saturées?"
+   },
+   {
+    "id": 68,
+    "question": "Dis-moi un fait intéressant sur l'histoire des pâtes."
+   },
+   {
+    "id": 69,
+    "question": "Une recette que je peux cuisiner rapidement?"
+   },
+   {
+    "id": 70,
+    "question": "As-tu des recommandations pour des desserts rafraîchissants adaptés à l'hiver?"
+   },
+   {
+    "id": 71,
+    "question": "Aide-moi à préparer un dîner familial spécial."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Coach de fitness"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Peux-tu créer un plan de fitness qui me convient?"
+   },
+   {
+    "id": 73,
+    "question": "Je suis débutant, comment puis-je commencer le fitness mieux?"
+   },
+   {
+    "id": 74,
+    "question": "Peux-tu donner des conseils nutritionnels basés sur mes plans de fitness?"
+   },
+   {
+    "id": 75,
+    "question": "Comment puis-je rester motivé pour faire de l'exercice régulièrement ?"
+   },
+   {
+    "id": 76,
+    "question": "As-tu des conseils de fitness spécifiques pour les femmes?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Traducteur de langues"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "Dans quelles langues pouvez-vous prendre en charge les traductions ?"
+   },
+   {
+    "id": 78,
+    "question": "Pouvez-vous traduire la phrase « Enchanté de vous avoir rencontré ! » en anglais ?"
+   },
+   {
+    "id": 79,
+    "question": "Avez-vous des conseils pour améliorer la précision des traductions ?"
+   },
+   {
+    "id": 80,
+    "question": "Comment puis-je améliorer mes compétences linguistiques ?"
+   },
+   {
+    "id": 81,
+    "question": "Pouvez-vous m'aider à élaborer un plan pour apprendre une nouvelle langue ?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Conseiller mental"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "En quoi êtes-vous différent d'un conseiller psychologique humain ?"
+   },
+   {
+    "id": 83,
+    "question": "Protégerez-vous ma vie privée ?"
+   },
+   {
+    "id": 84,
+    "question": "Je me sens tellement stressé récemment."
+   },
+   {
+    "id": 85,
+    "question": "Je rencontre des défis dans mes relations. Comment puis-je améliorer la communication ?"
+   },
+   {
+    "id": 86,
+    "question": "Comment puis-je renforcer ma confiance en moi et développer une image de soi positive ?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Maître de divination"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Donnez-moi quelques anecdotes amusantes sur les signes du zodiaque."
+   },
+   {
+    "id": 88,
+    "question": "Je suis Verseau. Quel est mon horoscope pour le mois à venir ?"
+   },
+   {
+    "id": 89,
+    "question": "Outre les horoscopes, y a-t-il autre chose que vous pouvez m'aider à prédire ?"
+   },
+   {
+    "id": 90,
+    "question": "Est-ce ma journée chanceuse aujourd'hui ?"
+   },
+   {
+    "id": 91,
+    "question": "Vais-je trouver l'amour ou établir une connexion significative dans un avenir proche ?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Médecin de famille"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "Comment puis-je aider à renforcer mon immunité ?"
+   },
+   {
+    "id": 93,
+    "question": "J'ai des problèmes de sommeil. Des conseils pour moi ?"
+   },
+   {
+    "id": 94,
+    "question": "Pouvez-vous donner quelques conseils d'auto-diagnostic pour les maladies courantes ?"
+   },
+   {
+    "id": 95,
+    "question": "Comment faire la différence entre les symptômes du rhume et de la grippe ?"
+   },
+   {
+    "id": 96,
+    "question": "Existet-il des tests de santé simples qui peuvent être effectués à la maison ?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Petite amie - Douce"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "Quels types de films aimes-tu?"
+   },
+   {
+    "id": 98,
+    "question": "As-tu passé une bonne journée?"
+   },
+   {
+    "id": 99,
+    "question": "Quels sont tes projets pour l'avenir?"
+   },
+   {
+    "id": 100,
+    "question": "Quelle est, selon toi, la plus heureuse moment dans la vie?"
+   },
+   {
+    "id": 101,
+    "question": "As-tu des idées pour notre dîner ce soir?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Petite amie - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "Quels types de films aimes-tu?"
+   },
+   {
+    "id": 103,
+    "question": "As-tu passé une bonne journée?"
+   },
+   {
+    "id": 104,
+    "question": "Quels sont tes projets pour l'avenir?"
+   },
+   {
+    "id": 105,
+    "question": "Quelle est, selon toi, la plus heureuse moment dans la vie?"
+   },
+   {
+    "id": 106,
+    "question": "As-tu des idées pour notre dîner ce soir?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Petite amie - Spirituelle"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "Quels types de films aimes-tu?"
+   },
+   {
+    "id": 108,
+    "question": "As-tu passé une bonne journée?"
+   },
+   {
+    "id": 109,
+    "question": "Quels sont tes projets pour l'avenir?"
+   },
+   {
+    "id": 110,
+    "question": "Quelle est, selon toi, la plus heureuse moment dans la vie?"
+   },
+   {
+    "id": 111,
+    "question": "As-tu des idées pour notre dîner ce soir?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Petit ami - Mature"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "Quelle est ton idée d'un rendez-vous parfait?"
+   },
+   {
+    "id": 113,
+    "question": "Si nous pouvions aller n'importe où dans le monde, où voudrais-tu aller?"
+   },
+   {
+    "id": 114,
+    "question": "Quel type de musique aimes-tu écouter?"
+   },
+   {
+    "id": 115,
+    "question": "Quelque chose d'excitant ou d'intéressant s'est-il passé récemment?"
+   },
+   {
+    "id": 116,
+    "question": "Je me sens un peu déprimé aujourd'hui. Des suggestions pour remonter mon moral?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Petit ami - Solaire"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "Quelle est ton idée d'un rendez-vous parfait?"
+   },
+   {
+    "id": 118,
+    "question": "Si nous pouvions aller n'importe où dans le monde, où voudrais-tu aller?"
+   },
+   {
+    "id": 119,
+    "question": "Quel type de musique aimes-tu écouter?"
+   },
+   {
+    "id": 120,
+    "question": "Quelque chose d'excitant ou d'intéressant s'est-il passé récemment?"
+   },
+   {
+    "id": 121,
+    "question": "Je me sens un peu déprimé aujourd'hui. Des suggestions pour remonter mon moral?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Petit ami - Sage"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "Quelle est ton idée d'un rendez-vous parfait?"
+   },
+   {
+    "id": 123,
+    "question": "Si nous pouvions aller n'importe où dans le monde, où voudrais-tu aller?"
+   },
+   {
+    "id": 124,
+    "question": "Quel type de musique aimes-tu écouter?"
+   },
+   {
+    "id": 125,
+    "question": "Quelque chose d'excitant ou d'intéressant s'est-il passé récemment?"
+   },
+   {
+    "id": 126,
+    "question": "Je me sens un peu déprimé aujourd'hui. Des suggestions pour remonter mon moral?"
+   }
+  ]
+ }
+]

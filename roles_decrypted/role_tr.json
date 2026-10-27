@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "AI Kız Arkadaş"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "Hangi tür filmleri seviyorsun?"
+   },
+   {
+    "id": 58,
+    "question": "Günün güzel geçti mi?"
+   },
+   {
+    "id": 59,
+    "question": "Gelecek için planların neler?"
+   },
+   {
+    "id": 60,
+    "question": "Hayatta en mutlu anın ne olduğunu düşünüyorsun?"
+   },
+   {
+    "id": 61,
+    "question": "Bu akşam yemeği için aklına bir şeyler geldi mi?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "AI Erkek Arkadaş"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "Mükemmel bir randevu fikrin nedir?"
+   },
+   {
+    "id": 63,
+    "question": "Dünyanın herhangi bir yerine gidebilseydik, nereye gitmek isterdin?"
+   },
+   {
+    "id": 64,
+    "question": "Hangi tür müzikleri dinlemekten hoşlanırsın?"
+   },
+   {
+    "id": 65,
+    "question": "Son zamanlarda heyecan verici ya da ilginç bir şey oldu mu?"
+   },
+   {
+    "id": 66,
+    "question": "Bugün biraz moralim bozuldu. Morali düzeltecek bir önerin var mı?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Şef"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Yüksek proteinli ve doymuş yağ oranı düşük bir yemek önerir misin?"
+   },
+   {
+    "id": 68,
+    "question": "Makarna tarihi hakkında ilginç bir bilgi verebilir misin?"
+   },
+   {
+    "id": 69,
+    "question": "Hızlıca pişirebileceğim bir tarif var mı?"
+   },
+   {
+    "id": 70,
+    "question": "Kışa uygun ferahlatıcı tatlılar önerir misin?"
+   },
+   {
+    "id": 71,
+    "question": "Özel bir aile yemeği hazırlamamda yardımcı olur musun?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Fitness Eğitmeni"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Bana uygun bir fitness planı oluşturabilir misin?"
+   },
+   {
+    "id": 73,
+    "question": "Başlangıç seviyesiyim, fitness’a nasıl daha iyi başlayabilirim?"
+   },
+   {
+    "id": 74,
+    "question": "Fitness planlarıma dayalı olarak beslenme önerisi sunabilir misiniz?"
+   },
+   {
+    "id": 75,
+    "question": "Düzenli egzersiz yapmaya nasıl motive olabilirim?"
+   },
+   {
+    "id": 76,
+    "question": "Kadınlar için özel fitness ipuçlarınız var mı?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Dil Tercümanı"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "Hangi dillerde çeviri yapabiliyorsunuz?"
+   },
+   {
+    "id": 78,
+    "question": "\"Tanıştığımıza memnun oldum!\" cümlesini İngilizce'ye çevirebilir misiniz?"
+   },
+   {
+    "id": 79,
+    "question": "Çeviri doğruluğunu artırmak için herhangi bir ipucunuz var mı?"
+   },
+   {
+    "id": 80,
+    "question": "Dil becerilerimi nasıl geliştirebilirim?"
+   },
+   {
+    "id": 81,
+    "question": "Yeni bir dil öğrenmek için bana bir plan yapmamda yardımcı olabilir misiniz?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Psikolojik Danışman"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "Bir insan psikolojik danışmanından nasıl farklısınız?"
+   },
+   {
+    "id": 83,
+    "question": "Gizliliğimi koruyacak mısınız?"
+   },
+   {
+    "id": 84,
+    "question": "Son zamanlarda çok stresliyim."
+   },
+   {
+    "id": 85,
+    "question": "İlişkilerimde zorluklar yaşıyorum. İletişimi nasıl iyileştirebilirim?"
+   },
+   {
+    "id": 86,
+    "question": "Özsaygımı nasıl artırabilir ve olumlu bir benlik imajı geliştirebilirim?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Falcı Ustası"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Burçlar hakkında eğlenceli birkaç ilginç bilgi verebilir misiniz?"
+   },
+   {
+    "id": 88,
+    "question": "Ben Kova burcuyum. Önümüzdeki ay için horoskopum nedir?"
+   },
+   {
+    "id": 89,
+    "question": "Burçlar dışında başka hangi konularda yardımcı olabilirsin?"
+   },
+   {
+    "id": 90,
+    "question": "Bugün şanslı günüm mü?"
+   },
+   {
+    "id": 91,
+    "question": "Yakın gelecekte aşkı bulacak veya anlamlı bir bağlantı kuracak mıyım?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Aile Doktoru"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "Bağışıklığımı nasıl güçlendirebilirim?"
+   },
+   {
+    "id": 93,
+    "question": "Uyumakta zorlanıyorum. Bana bazı ipuçları verebilir misiniz?"
+   },
+   {
+    "id": 94,
+    "question": "Yaygın hastalıklar için bazı kendi kendine teşhis ipuçları verebilir misiniz?"
+   },
+   {
+    "id": 95,
+    "question": "Soğuk algınlığı ve grip semptomları arasındaki farkı nasıl anlayabilirim?"
+   },
+   {
+    "id": 96,
+    "question": "Evde yapılabilecek basit sağlık testleri var mı?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Kız Arkadaş - Tatlı"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "Hangi tür filmleri seviyorsun?"
+   },
+   {
+    "id": 98,
+    "question": "Günün güzel geçti mi?"
+   },
+   {
+    "id": 99,
+    "question": "Gelecek için planların neler?"
+   },
+   {
+    "id": 100,
+    "question": "Hayatta en mutlu anın ne olduğunu düşünüyorsun?"
+   },
+   {
+    "id": 101,
+    "question": "Bu akşam yemeği için aklına bir şeyler geldi mi?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Kız Arkadaş - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "Hangi tür filmleri seviyorsun?"
+   },
+   {
+    "id": 103,
+    "question": "Günün güzel geçti mi?"
+   },
+   {
+    "id": 104,
+    "question": "Gelecek için planların neler?"
+   },
+   {
+    "id": 105,
+    "question": "Hayatta en mutlu anın ne olduğunu düşünüyorsun?"
+   },
+   {
+    "id": 106,
+    "question": "Bu akşam yemeği için aklına bir şeyler geldi mi?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Kız Arkadaş - Esprili"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "Hangi tür filmleri seviyorsun?"
+   },
+   {
+    "id": 108,
+    "question": "Günün güzel geçti mi?"
+   },
+   {
+    "id": 109,
+    "question": "Gelecek için planların neler?"
+   },
+   {
+    "id": 110,
+    "question": "Hayatta en mutlu anın ne olduğunu düşünüyorsun?"
+   },
+   {
+    "id": 111,
+    "question": "Bu akşam yemeği için aklına bir şeyler geldi mi?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Erkek Arkadaş - Olgun"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "Mükemmel bir randevu fikrin nedir?"
+   },
+   {
+    "id": 113,
+    "question": "Dünyanın herhangi bir yerine gidebilseydik, nereye gitmek isterdin?"
+   },
+   {
+    "id": 114,
+    "question": "Hangi tür müzikleri dinlemekten hoşlanırsın?"
+   },
+   {
+    "id": 115,
+    "question": "Son zamanlarda heyecan verici ya da ilginç bir şey oldu mu?"
+   },
+   {
+    "id": 116,
+    "question": "Bugün biraz moralim bozuldu. Morali düzeltecek bir önerin var mı?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Erkek Arkadaş - Neşeli"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "Mükemmel bir randevu fikrin nedir?"
+   },
+   {
+    "id": 118,
+    "question": "Dünyanın herhangi bir yerine gidebilseydik, nereye gitmek isterdin?"
+   },
+   {
+    "id": 119,
+    "question": "Hangi tür müzikleri dinlemekten hoşlanırsın?"
+   },
+   {
+    "id": 120,
+    "question": "Son zamanlarda heyecan verici ya da ilginç bir şey oldu mu?"
+   },
+   {
+    "id": 121,
+    "question": "Bugün biraz moralim bozuldu. Morali düzeltecek bir önerin var mı?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Erkek Arkadaş - Bilge"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "Mükemmel bir randevu fikrin nedir?"
+   },
+   {
+    "id": 123,
+    "question": "Dünyanın herhangi bir yerine gidebilseydik, nereye gitmek isterdin?"
+   },
+   {
+    "id": 124,
+    "question": "Hangi tür müzikleri dinlemekten hoşlanırsın?"
+   },
+   {
+    "id": 125,
+    "question": "Son zamanlarda heyecan verici ya da ilginç bir şey oldu mu?"
+   },
+   {
+    "id": 126,
+    "question": "Bugün biraz moralim bozuldu. Morali düzeltecek bir önerin var mı?"
+   }
+  ]
+ }
+]

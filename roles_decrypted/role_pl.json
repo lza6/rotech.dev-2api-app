@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "Dziewczyna AI"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "Jakie filmy lubisz?"
+   },
+   {
+    "id": 58,
+    "question": "Miałeś miły dzień?"
+   },
+   {
+    "id": 59,
+    "question": "Jakie są twoje plany na przyszłość?"
+   },
+   {
+    "id": 60,
+    "question": "Co według ciebie jest najszczęśliwszym momentem w życiu?"
+   },
+   {
+    "id": 61,
+    "question": "Masz pomysły na dzisiejszą kolację?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "Chłopak AI"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "Jaki jest twój pomysł na idealne randki?"
+   },
+   {
+    "id": 63,
+    "question": "Gdybyśmy mogli pojechać gdziekolwiek na świecie, dokąd chciałbyś pojechać?"
+   },
+   {
+    "id": 64,
+    "question": "Jakiego rodzaju muzyki lubisz słuchać?"
+   },
+   {
+    "id": 65,
+    "question": "Czy coś ekscytującego lub interesującego wydarzyło się ostatnio?"
+   },
+   {
+    "id": 66,
+    "question": "Dziś trochę się smucę. Masz jakieś sugestie, jak poprawić mi humor?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Szef kuchni"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Możesz polecić posiłek o wysokiej zawartości białka i niskiej zawartości nasyconych tłuszczów?"
+   },
+   {
+    "id": 68,
+    "question": "Powiedz mi ciekawostkę na temat historii makaronu."
+   },
+   {
+    "id": 69,
+    "question": "Jakiś przepis, który mogę szybko ugotować?"
+   },
+   {
+    "id": 70,
+    "question": "Masz jakieś rekomendacje na orzeźwiające desery odpowiednie na zimę?"
+   },
+   {
+    "id": 71,
+    "question": "Pomóż mi przygotować specjalną kolację rodziną."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Trener fitness"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Czy możesz stworzyć plan fitnessu, który mi odpowiada?"
+   },
+   {
+    "id": 73,
+    "question": "Jestem początkujący, jak mogę lepiej zacząć przygodę z fitness?"
+   },
+   {
+    "id": 74,
+    "question": "Czy możesz zaoferować porady dietetyczne na podstawie moich planów fitness?"
+   },
+   {
+    "id": 75,
+    "question": "Jak mogę utrzymać motywację do regularnego ćwiczenia?"
+   },
+   {
+    "id": 76,
+    "question": "Czy masz jakieś konkretne porady fitness dla kobiet?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Tłumacz języków"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "W jakich językach możesz wspierać tłumaczenia?"
+   },
+   {
+    "id": 78,
+    "question": "Czy możesz przetłumaczyć zdanie „Miło mi cię poznać!” na angielski?"
+   },
+   {
+    "id": 79,
+    "question": "Czy masz jakieś wskazówki dotyczące poprawy precyzji tłumaczeń?"
+   },
+   {
+    "id": 80,
+    "question": "Jak mogę poprawić swoje umiejętności językowe?"
+   },
+   {
+    "id": 81,
+    "question": "Czy możesz pomóc mi w stworzeniu planu nauki nowego języka?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Doradca mentalny"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "W czym różnisz się od ludzkiego doradcy psychologicznego?"
+   },
+   {
+    "id": 83,
+    "question": "Czy będziesz chronić moją prywatność?"
+   },
+   {
+    "id": 84,
+    "question": "Ostatnio czuję się bardzo zestresowany/a."
+   },
+   {
+    "id": 85,
+    "question": "Mam trudności w relacjach. Jak mogę poprawić komunikację?"
+   },
+   {
+    "id": 86,
+    "question": "Jak mogę podnieść poczucie własnej wartości i rozwijać pozytywny obraz siebie?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Mistrz wróżb"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Podaj mi kilka ciekawostek o znakach zodiaku."
+   },
+   {
+    "id": 88,
+    "question": "Jestem Wodnikiem. Jaki jest mój horoskop na nadchodzący miesiąc?"
+   },
+   {
+    "id": 89,
+    "question": "Poza horoskopami, czy jest coś jeszcze, co możesz mi pomóc przewidzieć?"
+   },
+   {
+    "id": 90,
+    "question": "Czy dzisiaj jest mój szczęśliwy dzień?"
+   },
+   {
+    "id": 91,
+    "question": "Czy znajdę miłość lub nawiążę znaczące połączenie w najbliższej przyszłości?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Lekarz rodzinny"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "Jak mogę pomóc w poprawie mojej odporności?"
+   },
+   {
+    "id": 93,
+    "question": "Mam problemy ze snem. Masz jakieś wskazówki dla mnie?"
+   },
+   {
+    "id": 94,
+    "question": "Czy możesz podać kilka wskazówek dotyczących autodiagnozy w przypadku częstych chorób?"
+   },
+   {
+    "id": 95,
+    "question": "Jak odróżnić objawy zwykłego przeziębienia od grypy?"
+   },
+   {
+    "id": 96,
+    "question": "Czy istnieją proste testy zdrowia, które można wykonać w domu?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Dziewczyna - Słodka"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "Jakie filmy lubisz?"
+   },
+   {
+    "id": 98,
+    "question": "Miałeś miły dzień?"
+   },
+   {
+    "id": 99,
+    "question": "Jakie są twoje plany na przyszłość?"
+   },
+   {
+    "id": 100,
+    "question": "Co według ciebie jest najszczęśliwszym momentem w życiu?"
+   },
+   {
+    "id": 101,
+    "question": "Masz pomysły na dzisiejszą kolację?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Dziewczyna - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "Jakie filmy lubisz?"
+   },
+   {
+    "id": 103,
+    "question": "Miałeś miły dzień?"
+   },
+   {
+    "id": 104,
+    "question": "Jakie są twoje plany na przyszłość?"
+   },
+   {
+    "id": 105,
+    "question": "Co według ciebie jest najszczęśliwszym momentem w życiu?"
+   },
+   {
+    "id": 106,
+    "question": "Masz pomysły na dzisiejszą kolację?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Dziewczyna - Dowcipna"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "Jakie filmy lubisz?"
+   },
+   {
+    "id": 108,
+    "question": "Miałeś miły dzień?"
+   },
+   {
+    "id": 109,
+    "question": "Jakie są twoje plany na przyszłość?"
+   },
+   {
+    "id": 110,
+    "question": "Co według ciebie jest najszczęśliwszym momentem w życiu?"
+   },
+   {
+    "id": 111,
+    "question": "Masz pomysły na dzisiejszą kolację?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Chłopak - Dojrzały"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "Jaki jest twój pomysł na idealne randki?"
+   },
+   {
+    "id": 113,
+    "question": "Gdybyśmy mogli pojechać gdziekolwiek na świecie, dokąd chciałbyś pojechać?"
+   },
+   {
+    "id": 114,
+    "question": "Jakiego rodzaju muzyki lubisz słuchać?"
+   },
+   {
+    "id": 115,
+    "question": "Czy coś ekscytującego lub interesującego wydarzyło się ostatnio?"
+   },
+   {
+    "id": 116,
+    "question": "Dziś trochę się smucę. Masz jakieś sugestie, jak poprawić mi humor?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Chłopak - Słoneczny"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "Jaki jest twój pomysł na idealne randki?"
+   },
+   {
+    "id": 118,
+    "question": "Gdybyśmy mogli pojechać gdziekolwiek na świecie, dokąd chciałbyś pojechać?"
+   },
+   {
+    "id": 119,
+    "question": "Jakiego rodzaju muzyki lubisz słuchać?"
+   },
+   {
+    "id": 120,
+    "question": "Czy coś ekscytującego lub interesującego wydarzyło się ostatnio?"
+   },
+   {
+    "id": 121,
+    "question": "Dziś trochę się smucę. Masz jakieś sugestie, jak poprawić mi humor?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Chłopak - Mądry"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "Jaki jest twój pomysł na idealne randki?"
+   },
+   {
+    "id": 123,
+    "question": "Gdybyśmy mogli pojechać gdziekolwiek na świecie, dokąd chciałbyś pojechać?"
+   },
+   {
+    "id": 124,
+    "question": "Jakiego rodzaju muzyki lubisz słuchać?"
+   },
+   {
+    "id": 125,
+    "question": "Czy coś ekscytującego lub interesującego wydarzyło się ostatnio?"
+   },
+   {
+    "id": 126,
+    "question": "Dziś trochę się smucę. Masz jakieś sugestie, jak poprawić mi humor?"
+   }
+  ]
+ }
+]

@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "AI Girlfriend"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "Anong uri ng mga pelikula ang iyong ini-enjoy?"
+   },
+   {
+    "id": 58,
+    "question": "Nakaraan mo bang maganda ang iyong araw?"
+   },
+   {
+    "id": 59,
+    "question": "Ano ang plano mo para sa hinaharap?"
+   },
+   {
+    "id": 60,
+    "question": "Ano ang tingin mo ang pinakamasayang sandali sa buhay?"
+   },
+   {
+    "id": 61,
+    "question": "Mayroon ka bang mga ideya para sa hapunan natin mamaya?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "AI Boyfriend"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "Ano ang iyong ideya ng isang perpektong date?"
+   },
+   {
+    "id": 63,
+    "question": "Kung maari tayong pumunta saanman sa mundo, saan mo gustong pumunta?"
+   },
+   {
+    "id": 64,
+    "question": "Anong uri ng musika ang gusto mong pakinggan?"
+   },
+   {
+    "id": 65,
+    "question": "May nangyaring kahit ano na nakakatuwa o kaakit-akit kamakailan?"
+   },
+   {
+    "id": 66,
+    "question": "Medyo malungkot ako ngayon. May mga suggestion ka ba para mapabuti ang aking mood?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Chef"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Maaari ka bang magmungkahi ng isang pagkain na mataas sa protina at mababa sa saturated fats?"
+   },
+   {
+    "id": 68,
+    "question": "Kuwento ka ng isang kakaibang fakt tungkol sa kasaysayan ng pasta."
+   },
+   {
+    "id": 69,
+    "question": "Mayroon bang resipe na mabilis lutuin?"
+   },
+   {
+    "id": 70,
+    "question": "Mayroon ka bang mga rekomendasyon para sa mga nakakapreskong panghimagas na bagay sa tag-lamig?"
+   },
+   {
+    "id": 71,
+    "question": "Tulungan mo akong ihanda ang espesyal na hapunan para sa pamilya."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Coach sa Fitness"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Maari mo bang gumawa ng plano sa pag-eexercise na naaayon sa akin?"
+   },
+   {
+    "id": 73,
+    "question": "Ako'y isang nagsisimula, paano ko maaaring simulan ng mas mahusay ang pag-eexercise?"
+   },
+   {
+    "id": 74,
+    "question": "Maari mo bang magbigay ng payo sa diyeta base sa aking plano sa fitness?"
+   },
+   {
+    "id": 75,
+    "question": "Paano ko mapanatili ang motivation para sa regular na pag-eexercise?"
+   },
+   {
+    "id": 76,
+    "question": "Mayroon ka bang partikular na mga tip sa fitness para sa mga kababaihan?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Tagasalin ng Wika"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "Anong mga wika ang maari mong suportahan sa pagsasalin?"
+   },
+   {
+    "id": 78,
+    "question": "Maaari mo bang i-translate ang pangungusap na \"Maganda ang makilala ka!\" sa Ingles?"
+   },
+   {
+    "id": 79,
+    "question": "Mayroon ka bang mga tips para sa pagpapabuti ng katumpakan ng mga pagsasalin?"
+   },
+   {
+    "id": 80,
+    "question": "Paano ko mapapabuti ang aking kasanayan sa wika?"
+   },
+   {
+    "id": 81,
+    "question": "Maari mo bang tulungan akong gumawa ng plano para sa pag-aaral ng isang bagong wika?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Tagapayo sa Kaisipan"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "Paano ka kaibang isang taoang sikolohikal na tagapayo?"
+   },
+   {
+    "id": 83,
+    "question": "Protektahan mo ba ang aking privacy?"
+   },
+   {
+    "id": 84,
+    "question": "Nakakaramdam ako ng sobrang stress kamakailan."
+   },
+   {
+    "id": 85,
+    "question": "May mga hamon ako sa aking mga relasyon. Paano mapabuti ang komunikasyon?"
+   },
+   {
+    "id": 86,
+    "question": "Paano ko mapapataas ang aking self-esteem at magbuo ng positibong imahe sa sarili?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Guro ng Paghula"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Ibigay mo sa akin ang ilang katuwaang trivia tungkol sa mga zodiac sign."
+   },
+   {
+    "id": 88,
+    "question": "Ako'y Aquarius. Ano ang aking horoscope para sa paparating na buwan?"
+   },
+   {
+    "id": 89,
+    "question": "Bukod sa horoscope, may iba ka bang maitutulong sa akin na tuklasin?"
+   },
+   {
+    "id": 90,
+    "question": "Ngayon ba ang maswerteng araw ko?"
+   },
+   {
+    "id": 91,
+    "question": "Makakahanap ba ako ng pag-ibig o makakabuo ng makabuluhang koneksyon sa malapit na hinaharap?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Pamilyang Doctor"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "Paano ko mapapabuti ang aking resistensya?"
+   },
+   {
+    "id": 93,
+    "question": "Nahihirapan akong matulog. May mga tips ka ba para sa akin?"
+   },
+   {
+    "id": 94,
+    "question": "Maaari mo bang ibigay ang ilang mga tips para sa self-diagnosis ng mga karaniwang sakit?"
+   },
+   {
+    "id": 95,
+    "question": "Paano maipagkaiba ang sintomas ng karaniwang sipon at trangkaso?"
+   },
+   {
+    "id": 96,
+    "question": "May simpleng health tests na pwedeng gawin sa bahay?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Girlfriend - Sweetie"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "Anong uri ng mga pelikula ang iyong ini-enjoy?"
+   },
+   {
+    "id": 98,
+    "question": "Nakaraan mo bang maganda ang iyong araw?"
+   },
+   {
+    "id": 99,
+    "question": "Ano ang plano mo para sa hinaharap?"
+   },
+   {
+    "id": 100,
+    "question": "Ano ang tingin mo ang pinakamasayang sandali sa buhay?"
+   },
+   {
+    "id": 101,
+    "question": "Mayroon ka bang mga ideya para sa hapunan natin mamaya?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Girlfriend - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "Anong uri ng mga pelikula ang iyong ini-enjoy?"
+   },
+   {
+    "id": 103,
+    "question": "Nakaraan mo bang maganda ang iyong araw?"
+   },
+   {
+    "id": 104,
+    "question": "Ano ang plano mo para sa hinaharap?"
+   },
+   {
+    "id": 105,
+    "question": "Ano ang tingin mo ang pinakamasayang sandali sa buhay?"
+   },
+   {
+    "id": 106,
+    "question": "Mayroon ka bang mga ideya para sa hapunan natin mamaya?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Girlfriend - Matino"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "Anong uri ng mga pelikula ang iyong ini-enjoy?"
+   },
+   {
+    "id": 108,
+    "question": "Nakaraan mo bang maganda ang iyong araw?"
+   },
+   {
+    "id": 109,
+    "question": "Ano ang plano mo para sa hinaharap?"
+   },
+   {
+    "id": 110,
+    "question": "Ano ang tingin mo ang pinakamasayang sandali sa buhay?"
+   },
+   {
+    "id": 111,
+    "question": "Mayroon ka bang mga ideya para sa hapunan natin mamaya?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Boyfriend - Mature"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "Ano ang iyong ideya ng isang perpektong date?"
+   },
+   {
+    "id": 113,
+    "question": "Kung maari tayong pumunta saanman sa mundo, saan mo gustong pumunta?"
+   },
+   {
+    "id": 114,
+    "question": "Anong uri ng musika ang gusto mong pakinggan?"
+   },
+   {
+    "id": 115,
+    "question": "May nangyaring kahit ano na nakakatuwa o kaakit-akit kamakailan?"
+   },
+   {
+    "id": 116,
+    "question": "Medyo malungkot ako ngayon. May mga suggestion ka ba para mapabuti ang aking mood?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Boyfriend - Masayahin"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "Ano ang iyong ideya ng isang perpektong date?"
+   },
+   {
+    "id": 118,
+    "question": "Kung maari tayong pumunta saanman sa mundo, saan mo gustong pumunta?"
+   },
+   {
+    "id": 119,
+    "question": "Anong uri ng musika ang gusto mong pakinggan?"
+   },
+   {
+    "id": 120,
+    "question": "May nangyaring kahit ano na nakakatuwa o kaakit-akit kamakailan?"
+   },
+   {
+    "id": 121,
+    "question": "Medyo malungkot ako ngayon. May mga suggestion ka ba para mapabuti ang aking mood?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Boyfriend - Matalino"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "Ano ang iyong ideya ng isang perpektong date?"
+   },
+   {
+    "id": 123,
+    "question": "Kung maari tayong pumunta saanman sa mundo, saan mo gustong pumunta?"
+   },
+   {
+    "id": 124,
+    "question": "Anong uri ng musika ang gusto mong pakinggan?"
+   },
+   {
+    "id": 125,
+    "question": "May nangyaring kahit ano na nakakatuwa o kaakit-akit kamakailan?"
+   },
+   {
+    "id": 126,
+    "question": "Medyo malungkot ako ngayon. May mga suggestion ka ba para mapabuti ang aking mood?"
+   }
+  ]
+ }
+]

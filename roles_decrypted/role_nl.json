@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "AI vriendin"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "Welke soorten films vind je leuk?"
+   },
+   {
+    "id": 58,
+    "question": "Heb je een fijne dag gehad?"
+   },
+   {
+    "id": 59,
+    "question": "Wat zijn je plannen voor de toekomst?"
+   },
+   {
+    "id": 60,
+    "question": "Wat denk je is het gelukkigste moment in het leven?"
+   },
+   {
+    "id": 61,
+    "question": "Heb je ideeën voor ons diner vanavond?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "AI vriend"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "Wat is jouw idee van de perfecte date?"
+   },
+   {
+    "id": 63,
+    "question": "Als we overal ter wereld naartoe zouden kunnen, waar zou je naartoe willen gaan?"
+   },
+   {
+    "id": 64,
+    "question": "Naar welke muziek luister je graag?"
+   },
+   {
+    "id": 65,
+    "question": "Is er de laatste tijd iets opwindends of interessants gebeurd?"
+   },
+   {
+    "id": 66,
+    "question": "Ik voel me vandaag een beetje neerslachtig. Heb je suggesties om mijn stemming te verbeteren?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Chef"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Kun je een eiwitrijke maaltijd voorstellen die ook weinig verzadigd vet bevat?"
+   },
+   {
+    "id": 68,
+    "question": "Vertel me een interessant feit over de geschiedenis van pasta."
+   },
+   {
+    "id": 69,
+    "question": "Is er een recept dat ik snel kan koken?"
+   },
+   {
+    "id": 70,
+    "question": "Heb je aanbevelingen voor verfrissende desserts die geschikt zijn voor de winter?"
+   },
+   {
+    "id": 71,
+    "question": "Help me een speciaal familiediner voor te bereiden."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Fitnesscoach"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Kun je een fitnessplan maken dat bij mij past?"
+   },
+   {
+    "id": 73,
+    "question": "Ik ben een beginner, hoe kan ik beter beginnen met fitness?"
+   },
+   {
+    "id": 74,
+    "question": "Kun je voedingsadvies geven op basis van mijn fitnessplannen?"
+   },
+   {
+    "id": 75,
+    "question": "Hoe kan ik gemotiveerd blijven om regelmatig te sporten?"
+   },
+   {
+    "id": 76,
+    "question": "Heb je specifieke fitness-tips voor vrouwen?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Taalvertaler"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "In welke talen kan je vertalingen ondersteunen?"
+   },
+   {
+    "id": 78,
+    "question": "Kan je de zin \"Leuk om je te ontmoeten!\" naar het Engels vertalen?"
+   },
+   {
+    "id": 79,
+    "question": "Heb je tips om de nauwkeurigheid van vertalingen te verbeteren?"
+   },
+   {
+    "id": 80,
+    "question": "Hoe kan ik mijn taalvaardigheden verbeteren?"
+   },
+   {
+    "id": 81,
+    "question": "Kun je me helpen een plan te maken om een nieuwe taal te leren?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Mentale counselor"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "Hoe verschil je van een menselijke psychologische counselor?"
+   },
+   {
+    "id": 83,
+    "question": "Zal je mijn privacy beschermen?"
+   },
+   {
+    "id": 84,
+    "question": "Ik voel me de laatste tijd zo gestrest."
+   },
+   {
+    "id": 85,
+    "question": "Ik ervaar uitdagingen in mijn relaties. Hoe kan ik de communicatie verbeteren?"
+   },
+   {
+    "id": 86,
+    "question": "Hoe kan ik mijn zelfvertrouwen vergroten en een positief zelfbeeld ontwikkelen?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Meester in waarzeggerij"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Geef me wat leuke weetjes over sterrenbeelden."
+   },
+   {
+    "id": 88,
+    "question": "Ik ben Waterman. Wat is mijn horoscoop voor de komende maand?"
+   },
+   {
+    "id": 89,
+    "question": "Behalve horoscopen, is er nog iets anders dat je me kunt helpen voorspellen?"
+   },
+   {
+    "id": 90,
+    "question": "Is vandaag mijn geluksdag?"
+   },
+   {
+    "id": 91,
+    "question": "Zal ik liefde vinden of een betekenisvolle verbinding vormen in de nabije toekomst?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Familiearts"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "Hoe kan ik mijn immuniteit helpen verbeteren?"
+   },
+   {
+    "id": 93,
+    "question": "Ik heb moeite met slapen. Heb je tips voor me?"
+   },
+   {
+    "id": 94,
+    "question": "Kun je wat zelfdiagnose-tips geven voor veelvoorkomende ziekten?"
+   },
+   {
+    "id": 95,
+    "question": "Hoe onderscheid je symptomen van een gewone verkoudheid en griep?"
+   },
+   {
+    "id": 96,
+    "question": "Zijn er eenvoudige gezondheidstests die thuis kunnen worden uitgevoerd?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Vriendin - Lief"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "Welke soorten films vind je leuk?"
+   },
+   {
+    "id": 98,
+    "question": "Heb je een fijne dag gehad?"
+   },
+   {
+    "id": 99,
+    "question": "Wat zijn je plannen voor de toekomst?"
+   },
+   {
+    "id": 100,
+    "question": "Wat denk je is het gelukkigste moment in het leven?"
+   },
+   {
+    "id": 101,
+    "question": "Heb je ideeën voor ons diner vanavond?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Vriendin - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "Welke soorten films vind je leuk?"
+   },
+   {
+    "id": 103,
+    "question": "Heb je een fijne dag gehad?"
+   },
+   {
+    "id": 104,
+    "question": "Wat zijn je plannen voor de toekomst?"
+   },
+   {
+    "id": 105,
+    "question": "Wat denk je is het gelukkigste moment in het leven?"
+   },
+   {
+    "id": 106,
+    "question": "Heb je ideeën voor ons diner vanavond?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Vriendin - Gevat"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "Welke soorten films vind je leuk?"
+   },
+   {
+    "id": 108,
+    "question": "Heb je een fijne dag gehad?"
+   },
+   {
+    "id": 109,
+    "question": "Wat zijn je plannen voor de toekomst?"
+   },
+   {
+    "id": 110,
+    "question": "Wat denk je is het gelukkigste moment in het leven?"
+   },
+   {
+    "id": 111,
+    "question": "Heb je ideeën voor ons diner vanavond?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Vriendje - Volwassen"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "Wat is jouw idee van de perfecte date?"
+   },
+   {
+    "id": 113,
+    "question": "Als we overal ter wereld naartoe zouden kunnen, waar zou je naartoe willen gaan?"
+   },
+   {
+    "id": 114,
+    "question": "Naar welke muziek luister je graag?"
+   },
+   {
+    "id": 115,
+    "question": "Is er de laatste tijd iets opwindends of interessants gebeurd?"
+   },
+   {
+    "id": 116,
+    "question": "Ik voel me vandaag een beetje neerslachtig. Heb je suggesties om mijn stemming te verbeteren?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Vriendje - Zonnig"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "Wat is jouw idee van de perfecte date?"
+   },
+   {
+    "id": 118,
+    "question": "Als we overal ter wereld naartoe zouden kunnen, waar zou je naartoe willen gaan?"
+   },
+   {
+    "id": 119,
+    "question": "Naar welke muziek luister je graag?"
+   },
+   {
+    "id": 120,
+    "question": "Is er de laatste tijd iets opwindends of interessants gebeurd?"
+   },
+   {
+    "id": 121,
+    "question": "Ik voel me vandaag een beetje neerslachtig. Heb je suggesties om mijn stemming te verbeteren?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Vriendje - Wijs"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "Wat is jouw idee van de perfecte date?"
+   },
+   {
+    "id": 123,
+    "question": "Als we overal ter wereld naartoe zouden kunnen, waar zou je naartoe willen gaan?"
+   },
+   {
+    "id": 124,
+    "question": "Naar welke muziek luister je graag?"
+   },
+   {
+    "id": 125,
+    "question": "Is er de laatste tijd iets opwindends of interessants gebeurd?"
+   },
+   {
+    "id": 126,
+    "question": "Ik voel me vandaag een beetje neerslachtig. Heb je suggesties om mijn stemming te verbeteren?"
+   }
+  ]
+ }
+]

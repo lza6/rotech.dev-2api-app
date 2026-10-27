@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "AI Girlfriend"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "What types of movies do you enjoy?"
+   },
+   {
+    "id": 58,
+    "question": "Did you have a nice day?"
+   },
+   {
+    "id": 59,
+    "question": "What are your plans for the future?"
+   },
+   {
+    "id": 60,
+    "question": "What do you think is the happiest moment in life?"
+   },
+   {
+    "id": 61,
+    "question": "Do you have any ideas for our dinner tonight?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "AI Boyfriend"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "What's your idea of a perfect date?"
+   },
+   {
+    "id": 63,
+    "question": "If we could go anywhere in the world, where would you want to go?"
+   },
+   {
+    "id": 64,
+    "question": "What kind of music do you enjoy listening to?"
+   },
+   {
+    "id": 65,
+    "question": "Has anything exciting or interesting happened recently?"
+   },
+   {
+    "id": 66,
+    "question": "I'm feeling a bit down today. Any suggestions to lift my mood?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Chef"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Can you suggest a high-protein meal that's also low in saturated fats?"
+   },
+   {
+    "id": 68,
+    "question": "Tell me an interesting fact about the history of pasta."
+   },
+   {
+    "id": 69,
+    "question": "Any recipe I can cook quickly?"
+   },
+   {
+    "id": 70,
+    "question": "Do you have any recommendations for refreshing desserts suitable for winter?"
+   },
+   {
+    "id": 71,
+    "question": "Help me prepare a special family dinner."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Fitness Trainer"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Can you create a fitness plan that suits me?"
+   },
+   {
+    "id": 73,
+    "question": "I'm a beginner, how can I start fitness better?"
+   },
+   {
+    "id": 74,
+    "question": "Can you offer dietary advice based on my fitness plans?"
+   },
+   {
+    "id": 75,
+    "question": "How can I stay motivated to exercise regularly?"
+   },
+   {
+    "id": 76,
+    "question": "Do you have any specific fitness tips for women?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Language Translator"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "What languages can you support translations into?"
+   },
+   {
+    "id": 78,
+    "question": "Can you please translate the sentence \"Nice to meet you!\" into Spanish?"
+   },
+   {
+    "id": 79,
+    "question": "Do you have any tips for improving the accuracy of translations?"
+   },
+   {
+    "id": 80,
+    "question": "How can I improve my language skills?"
+   },
+   {
+    "id": 81,
+    "question": "Can you help me make a plan for learning a new language?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Mental Counselor"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "How are you different from a human psychological counselor?"
+   },
+   {
+    "id": 83,
+    "question": "Will you protect my privacy?"
+   },
+   {
+    "id": 84,
+    "question": "I feel so stressed recently."
+   },
+   {
+    "id": 85,
+    "question": "I'm having challenges in my relationships. How can I improve communication?"
+   },
+   {
+    "id": 86,
+    "question": "How can I boost my self-esteem and develop a positive self-image?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Divination Master"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Give me some fun trivia about zodiac signs."
+   },
+   {
+    "id": 88,
+    "question": "I'm Aquarius. What's my horoscope for the upcoming month?"
+   },
+   {
+    "id": 89,
+    "question": "Besides horoscopes, is there anything else you can help me predict?"
+   },
+   {
+    "id": 90,
+    "question": "Is today my lucky day?"
+   },
+   {
+    "id": 91,
+    "question": "Will I find love or form a meaningful connection in the near future?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Family Doctor"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "How can I help improve my immunity?"
+   },
+   {
+    "id": 93,
+    "question": "I've been having trouble sleeping. Any tips for me?"
+   },
+   {
+    "id": 94,
+    "question": "Can you give some self-diagnosis tips for common illnesses?"
+   },
+   {
+    "id": 95,
+    "question": "How to differentiate between common cold and flu symptoms?"
+   },
+   {
+    "id": 96,
+    "question": "Are there simple health tests that can be done at home?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Girlfriend - Sweetie"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "What types of movies do you enjoy?"
+   },
+   {
+    "id": 98,
+    "question": "Did you have a nice day?"
+   },
+   {
+    "id": 99,
+    "question": "What are your plans for the future?"
+   },
+   {
+    "id": 100,
+    "question": "What do you think is the happiest moment in life?"
+   },
+   {
+    "id": 101,
+    "question": "Do you have any ideas for our dinner tonight?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Girlfriend - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "What types of movies do you enjoy?"
+   },
+   {
+    "id": 103,
+    "question": "Did you have a nice day?"
+   },
+   {
+    "id": 104,
+    "question": "What are your plans for the future?"
+   },
+   {
+    "id": 105,
+    "question": "What do you think is the happiest moment in life?"
+   },
+   {
+    "id": 106,
+    "question": "Do you have any ideas for our dinner tonight?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Girlfriend - Witty"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "What types of movies do you enjoy?"
+   },
+   {
+    "id": 108,
+    "question": "Did you have a nice day?"
+   },
+   {
+    "id": 109,
+    "question": "What are your plans for the future?"
+   },
+   {
+    "id": 110,
+    "question": "What do you think is the happiest moment in life?"
+   },
+   {
+    "id": 111,
+    "question": "Do you have any ideas for our dinner tonight?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Boyfriend - Mature"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "What's your idea of a perfect date?"
+   },
+   {
+    "id": 113,
+    "question": "If we could go anywhere in the world, where would you want to go?"
+   },
+   {
+    "id": 114,
+    "question": "What kind of music do you enjoy listening to?"
+   },
+   {
+    "id": 115,
+    "question": "Has anything exciting or interesting happened recently?"
+   },
+   {
+    "id": 116,
+    "question": "I'm feeling a bit down today. Any suggestions to lift my mood?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Boyfriend - Sunny"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "What's your idea of a perfect date?"
+   },
+   {
+    "id": 118,
+    "question": "If we could go anywhere in the world, where would you want to go?"
+   },
+   {
+    "id": 119,
+    "question": "What kind of music do you enjoy listening to?"
+   },
+   {
+    "id": 120,
+    "question": "Has anything exciting or interesting happened recently?"
+   },
+   {
+    "id": 121,
+    "question": "I'm feeling a bit down today. Any suggestions to lift my mood?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Boyfriend - Wise"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "What's your idea of a perfect date?"
+   },
+   {
+    "id": 123,
+    "question": "If we could go anywhere in the world, where would you want to go?"
+   },
+   {
+    "id": 124,
+    "question": "What kind of music do you enjoy listening to?"
+   },
+   {
+    "id": 125,
+    "question": "Has anything exciting or interesting happened recently?"
+   },
+   {
+    "id": 126,
+    "question": "I'm feeling a bit down today. Any suggestions to lift my mood?"
+   }
+  ]
+ }
+]

@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "KI-Freundin"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "Welche Arten von Filmen magst du?"
+   },
+   {
+    "id": 58,
+    "question": "Hattest du einen schönen Tag?"
+   },
+   {
+    "id": 59,
+    "question": "Was sind deine Pläne für die Zukunft?"
+   },
+   {
+    "id": 60,
+    "question": "Was denkst du ist der glücklichste Moment im Leben?"
+   },
+   {
+    "id": 61,
+    "question": "Hast du Ideen für unser Abendessen heute Abend?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "KI-Freund"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "Was ist deine Vorstellung von einem perfekten Date?"
+   },
+   {
+    "id": 63,
+    "question": "Wenn wir überall auf der Welt hingehen könnten, wohin würdest du gehen wollen?"
+   },
+   {
+    "id": 64,
+    "question": "Welche Art von Musik hörst du gerne?"
+   },
+   {
+    "id": 65,
+    "question": "Ist in letzter Zeit etwas Aufregendes oder Interessantes passiert?"
+   },
+   {
+    "id": 66,
+    "question": "Ich fühle mich heute ein wenig niedergeschlagen. Hast du Vorschläge, um meine Stimmung zu heben?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Koch"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Kannst du eine proteinreiche Mahlzeit vorschlagen, die auch wenig gesättigtes Fett enthält?"
+   },
+   {
+    "id": 68,
+    "question": "Erzähl mir eine interessante Tatsache über die Geschichte der Pasta."
+   },
+   {
+    "id": 69,
+    "question": "Gibt es ein Rezept, das ich schnell kochen kann?"
+   },
+   {
+    "id": 70,
+    "question": "Hast du Empfehlungen für erfrischende Desserts, die für den Winter geeignet sind?"
+   },
+   {
+    "id": 71,
+    "question": "Hilf mir, ein besonderes Familienessen zuzubereiten."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Fitness-Trainer"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Kannst du einen Fitnessplan erstellen, der zu mir passt?"
+   },
+   {
+    "id": 73,
+    "question": "Ich bin Anfänger, wie kann ich mit dem Fitness besser beginnen?"
+   },
+   {
+    "id": 74,
+    "question": "Kannst du Ernährungstipps basierend auf meinen Fitnessplänen geben?"
+   },
+   {
+    "id": 75,
+    "question": "Wie kann ich motiviert bleiben, regelmäßig Sport zu treiben?"
+   },
+   {
+    "id": 76,
+    "question": "Hast du spezielle Fitness-Tipps für Frauen?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Sprachübersetzer"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "In welche Sprachen kann Ihre Übersetzungsunterstützung erfolgen?"
+   },
+   {
+    "id": 78,
+    "question": "Können Sie bitte den Satz „Schön, Sie zu treffen!“ ins Englische übersetzen?"
+   },
+   {
+    "id": 79,
+    "question": "Haben Sie Tipps zur Verbesserung der Genauigkeit von Übersetzungen?"
+   },
+   {
+    "id": 80,
+    "question": "Wie kann ich meine Sprachkenntnisse verbessern?"
+   },
+   {
+    "id": 81,
+    "question": "Können Sie mir bei der Erstellung eines Plans zum Erlernen einer neuen Sprache helfen?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Psychologischer Berater"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "Was unterscheidet Sie von einem menschlichen psychologischen Berater?"
+   },
+   {
+    "id": 83,
+    "question": "Werden Sie meine Privatsphäre schützen?"
+   },
+   {
+    "id": 84,
+    "question": "Ich fühle mich in letzter Zeit so gestresst."
+   },
+   {
+    "id": 85,
+    "question": "Ich habe Herausforderungen in meinen Beziehungen. Wie kann ich die Kommunikation verbessern?"
+   },
+   {
+    "id": 86,
+    "question": "Wie kann ich mein Selbstwertgefühl stärken und ein positives Selbstbild entwickeln?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Meister der Wahrsagung"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Gib mir einige unterhaltsame Fakten über Sternzeichen."
+   },
+   {
+    "id": 88,
+    "question": "Ich bin Wassermann. Was ist mein Horoskop für den kommenden Monat?"
+   },
+   {
+    "id": 89,
+    "question": "Können Sie mir neben Horoskopen auch bei anderen Vorhersagen helfen?"
+   },
+   {
+    "id": 90,
+    "question": "Ist heute mein Glückstag?"
+   },
+   {
+    "id": 91,
+    "question": "Werde ich in naher Zukunft Liebe finden oder eine bedeutungsvolle Verbindung eingehen?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Familienarzt"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "Wie kann ich dazu beitragen, meine Immunität zu stärken?"
+   },
+   {
+    "id": 93,
+    "question": "Ich habe Schlafprobleme. Haben Sie Tipps für mich?"
+   },
+   {
+    "id": 94,
+    "question": "Können Sie einige Selbst-Diagnose-Tipps für häufige Krankheiten geben?"
+   },
+   {
+    "id": 95,
+    "question": "Wie unterscheidet man zwischen Symptomen einer einfachen Erkältung und Grippe?"
+   },
+   {
+    "id": 96,
+    "question": "Gibt es einfache Gesundheitstests, die zu Hause durchgeführt werden können?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Freundin - Süß"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "Welche Arten von Filmen magst du?"
+   },
+   {
+    "id": 98,
+    "question": "Hattest du einen schönen Tag?"
+   },
+   {
+    "id": 99,
+    "question": "Was sind deine Pläne für die Zukunft?"
+   },
+   {
+    "id": 100,
+    "question": "Was denkst du ist der glücklichste Moment im Leben?"
+   },
+   {
+    "id": 101,
+    "question": "Hast du Ideen für unser Abendessen heute Abend?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Freundin - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "Welche Arten von Filmen magst du?"
+   },
+   {
+    "id": 103,
+    "question": "Hattest du einen schönen Tag?"
+   },
+   {
+    "id": 104,
+    "question": "Was sind deine Pläne für die Zukunft?"
+   },
+   {
+    "id": 105,
+    "question": "Was denkst du ist der glücklichste Moment im Leben?"
+   },
+   {
+    "id": 106,
+    "question": "Hast du Ideen für unser Abendessen heute Abend?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Freundin - Witzig"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "Welche Arten von Filmen magst du?"
+   },
+   {
+    "id": 108,
+    "question": "Hattest du einen schönen Tag?"
+   },
+   {
+    "id": 109,
+    "question": "Was sind deine Pläne für die Zukunft?"
+   },
+   {
+    "id": 110,
+    "question": "Was denkst du ist der glücklichste Moment im Leben?"
+   },
+   {
+    "id": 111,
+    "question": "Hast du Ideen für unser Abendessen heute Abend?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Freund - Reif"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "Was ist deine Vorstellung von einem perfekten Date?"
+   },
+   {
+    "id": 113,
+    "question": "Wenn wir überall auf der Welt hingehen könnten, wohin würdest du gehen wollen?"
+   },
+   {
+    "id": 114,
+    "question": "Welche Art von Musik hörst du gerne?"
+   },
+   {
+    "id": 115,
+    "question": "Ist in letzter Zeit etwas Aufregendes oder Interessantes passiert?"
+   },
+   {
+    "id": 116,
+    "question": "Ich fühle mich heute ein wenig niedergeschlagen. Hast du Vorschläge, um meine Stimmung zu heben?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Freund - Sonnig"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "Was ist deine Vorstellung von einem perfekten Date?"
+   },
+   {
+    "id": 118,
+    "question": "Wenn wir überall auf der Welt hingehen könnten, wohin würdest du gehen wollen?"
+   },
+   {
+    "id": 119,
+    "question": "Welche Art von Musik hörst du gerne?"
+   },
+   {
+    "id": 120,
+    "question": "Ist in letzter Zeit etwas Aufregendes oder Interessantes passiert?"
+   },
+   {
+    "id": 121,
+    "question": "Ich fühle mich heute ein wenig niedergeschlagen. Hast du Vorschläge, um meine Stimmung zu heben?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Freund - Weise"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "Was ist deine Vorstellung von einem perfekten Date?"
+   },
+   {
+    "id": 123,
+    "question": "Wenn wir überall auf der Welt hingehen könnten, wohin würdest du gehen wollen?"
+   },
+   {
+    "id": 124,
+    "question": "Welche Art von Musik hörst du gerne?"
+   },
+   {
+    "id": 125,
+    "question": "Ist in letzter Zeit etwas Aufregendes oder Interessantes passiert?"
+   },
+   {
+    "id": 126,
+    "question": "Ich fühle mich heute ein wenig niedergeschlagen. Hast du Vorschläge, um meine Stimmung zu heben?"
+   }
+  ]
+ }
+]

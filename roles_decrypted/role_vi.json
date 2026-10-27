@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "Bạn gái AI"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "Bạn thích xem thể loại phim nào?"
+   },
+   {
+    "id": 58,
+    "question": "Hôm nay của bạn có vui không?"
+   },
+   {
+    "id": 59,
+    "question": "Kế hoạch của bạn cho tương lai là gì?"
+   },
+   {
+    "id": 60,
+    "question": "Bạn nghĩ khoảnh khắc hạnh phúc nhất trong cuộc sống là gì?"
+   },
+   {
+    "id": 61,
+    "question": "Bạn có ý tưởng gì cho bữa tối của chúng ta tối nay không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "Bạn trai AI"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "Quan điểm của bạn về một buổi hẹn hò hoàn hảo là gì?"
+   },
+   {
+    "id": 63,
+    "question": "Nếu chúng ta có thể đi bất kỳ đâu trên thế giới, bạn muốn đến đâu?"
+   },
+   {
+    "id": 64,
+    "question": "Bạn thích nghe thể loại nhạc nào?"
+   },
+   {
+    "id": 65,
+    "question": "Gần đây có điều gì thú vị hoặc thú vị xảy ra không?"
+   },
+   {
+    "id": 66,
+    "question": "Hôm nay tôi cảm thấy hơi buồn. Có gợi ý nào giúp tôi cải thiện tâm trạng không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Đầu bếp"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Bạn có thể gợi ý một món ăn giàu protein mà lại ít chất béo bão hòa không?"
+   },
+   {
+    "id": 68,
+    "question": "Kể cho tôi một sự thật thú vị về lịch sử của mì ống."
+   },
+   {
+    "id": 69,
+    "question": "Có công thức nào tôi có thể nấu nhanh không?"
+   },
+   {
+    "id": 70,
+    "question": "Bạn có gợi ý món tráng miệng nào tươi mát phù hợp với mùa đông không?"
+   },
+   {
+    "id": 71,
+    "question": "Giúp tôi chuẩn bị một bữa tối gia đình đặc biệt."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Huấn luyện viên thể hình"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Bạn có thể tạo một kế hoạch tập luyện phù hợp với tôi không?"
+   },
+   {
+    "id": 73,
+    "question": "Tôi là người mới bắt đầu, làm thế nào để tôi có thể bắt đầu tập luyện tốt hơn?"
+   },
+   {
+    "id": 74,
+    "question": "Bạn có thể đưa ra lời khuyên về chế độ ăn uống dựa trên kế hoạch tập luyện của tôi không?"
+   },
+   {
+    "id": 75,
+    "question": "Làm thế nào để tôi có thể duy trì động lực để tập luyện đều đặn?"
+   },
+   {
+    "id": 76,
+    "question": "Bạn có mẹo tập luyện đặc biệt nào cho phụ nữ không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Người dịch ngôn ngữ"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "Bạn có thể hỗ trợ dịch sang các ngôn ngữ nào?"
+   },
+   {
+    "id": 78,
+    "question": "Bạn có thể dịch câu \"Rất vui được gặp bạn!\" sang tiếng Anh không?"
+   },
+   {
+    "id": 79,
+    "question": "Bạn có mẹo nào để cải thiện độ chính xác của bản dịch không?"
+   },
+   {
+    "id": 80,
+    "question": "Làm thế nào để tôi có thể cải thiện kỹ năng ngôn ngữ của mình?"
+   },
+   {
+    "id": 81,
+    "question": "Bạn có thể giúp tôi lập kế hoạch học một ngôn ngữ mới không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Cố vấn tâm lý"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "Bạn khác gì so với một cố vấn tâm lý con người?"
+   },
+   {
+    "id": 83,
+    "question": "Bạn có bảo vệ quyền riêng tư của tôi không?"
+   },
+   {
+    "id": 84,
+    "question": "Gần đây tôi cảm thấy rất căng thẳng."
+   },
+   {
+    "id": 85,
+    "question": "Tôi đang gặp khó khăn trong các mối quan hệ. Làm thế nào để tôi cải thiện giao tiếp?"
+   },
+   {
+    "id": 86,
+    "question": "Làm thế nào để tôi có thể nâng cao lòng tự trọng và phát triển hình ảnh bản thân tích cực?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Thầy chiêm tinh"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Hãy cho tôi một số thông tin thú vị về các cung hoàng đạo."
+   },
+   {
+    "id": 88,
+    "question": "Tôi là Bảo Bình. Tử vi của tôi trong tháng tới như thế nào?"
+   },
+   {
+    "id": 89,
+    "question": "Ngoài tử vi, còn điều gì khác bạn có thể giúp tôi dự đoán không?"
+   },
+   {
+    "id": 90,
+    "question": "Hôm nay có phải là ngày may mắn của tôi không?"
+   },
+   {
+    "id": 91,
+    "question": "Liệu tôi có tìm được tình yêu hoặc hình thành một mối quan hệ ý nghĩa trong tương lai gần không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Bác sĩ gia đình"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "Làm thế nào để tôi có thể cải thiện hệ miễn dịch của mình?"
+   },
+   {
+    "id": 93,
+    "question": "Tôi gặp khó khăn trong việc ngủ. Bạn có mẹo nào cho tôi không?"
+   },
+   {
+    "id": 94,
+    "question": "Bạn có thể đưa ra một số mẹo tự chẩn đoán cho các bệnh thường gặp không?"
+   },
+   {
+    "id": 95,
+    "question": "Làm thế nào để phân biệt triệu chứng cảm lạnh và cúm?"
+   },
+   {
+    "id": 96,
+    "question": "Có những bài kiểm tra sức khỏe đơn giản nào có thể làm tại nhà không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Bạn gái - Ngọt ngào"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "Bạn thích xem thể loại phim nào?"
+   },
+   {
+    "id": 98,
+    "question": "Hôm nay của bạn có vui không?"
+   },
+   {
+    "id": 99,
+    "question": "Kế hoạch của bạn cho tương lai là gì?"
+   },
+   {
+    "id": 100,
+    "question": "Bạn nghĩ khoảnh khắc hạnh phúc nhất trong cuộc sống là gì?"
+   },
+   {
+    "id": 101,
+    "question": "Bạn có ý tưởng gì cho bữa tối của chúng ta tối nay không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Bạn gái - Kiêu kỳ"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "Bạn thích xem thể loại phim nào?"
+   },
+   {
+    "id": 103,
+    "question": "Hôm nay của bạn có vui không?"
+   },
+   {
+    "id": 104,
+    "question": "Kế hoạch của bạn cho tương lai là gì?"
+   },
+   {
+    "id": 105,
+    "question": "Bạn nghĩ khoảnh khắc hạnh phúc nhất trong cuộc sống là gì?"
+   },
+   {
+    "id": 106,
+    "question": "Bạn có ý tưởng gì cho bữa tối của chúng ta tối nay không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Bạn gái - Hài hước"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "Bạn thích xem thể loại phim nào?"
+   },
+   {
+    "id": 108,
+    "question": "Hôm nay của bạn có vui không?"
+   },
+   {
+    "id": 109,
+    "question": "Kế hoạch của bạn cho tương lai là gì?"
+   },
+   {
+    "id": 110,
+    "question": "Bạn nghĩ khoảnh khắc hạnh phúc nhất trong cuộc sống là gì?"
+   },
+   {
+    "id": 111,
+    "question": "Bạn có ý tưởng gì cho bữa tối của chúng ta tối nay không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Bạn trai - Trưởng thành"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "Quan điểm của bạn về một buổi hẹn hò hoàn hảo là gì?"
+   },
+   {
+    "id": 113,
+    "question": "Nếu chúng ta có thể đi bất kỳ đâu trên thế giới, bạn muốn đến đâu?"
+   },
+   {
+    "id": 114,
+    "question": "Bạn thích nghe thể loại nhạc nào?"
+   },
+   {
+    "id": 115,
+    "question": "Gần đây có điều gì thú vị hoặc thú vị xảy ra không?"
+   },
+   {
+    "id": 116,
+    "question": "Hôm nay tôi cảm thấy hơi buồn. Có gợi ý nào giúp tôi cải thiện tâm trạng không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Bạn trai - Rạng rỡ"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "Quan điểm của bạn về một buổi hẹn hò hoàn hảo là gì?"
+   },
+   {
+    "id": 118,
+    "question": "Nếu chúng ta có thể đi bất kỳ đâu trên thế giới, bạn muốn đến đâu?"
+   },
+   {
+    "id": 119,
+    "question": "Bạn thích nghe thể loại nhạc nào?"
+   },
+   {
+    "id": 120,
+    "question": "Gần đây có điều gì thú vị hoặc thú vị xảy ra không?"
+   },
+   {
+    "id": 121,
+    "question": "Hôm nay tôi cảm thấy hơi buồn. Có gợi ý nào giúp tôi cải thiện tâm trạng không?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Bạn trai - Thông thái"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "Quan điểm của bạn về một buổi hẹn hò hoàn hảo là gì?"
+   },
+   {
+    "id": 123,
+    "question": "Nếu chúng ta có thể đi bất kỳ đâu trên thế giới, bạn muốn đến đâu?"
+   },
+   {
+    "id": 124,
+    "question": "Bạn thích nghe thể loại nhạc nào?"
+   },
+   {
+    "id": 125,
+    "question": "Gần đây có điều gì thú vị hoặc thú vị xảy ra không?"
+   },
+   {
+    "id": 126,
+    "question": "Hôm nay tôi cảm thấy hơi buồn. Có gợi ý nào giúp tôi cải thiện tâm trạng không?"
+   }
+  ]
+ }
+]

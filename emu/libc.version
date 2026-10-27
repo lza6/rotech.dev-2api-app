@@ -1,0 +1,9 @@
+LIBC {
+  global:
+    __strlen_chk; __strncat_chk; __vsprintf_chk; __stack_chk_fail;
+    __register_atfork; __cxa_atexit; __cxa_finalize;
+    malloc; free; realloc; calloc; memcpy; memset; strlen; strcmp;
+    strncpy; strcat; strchr; strstr; ferror; fread; fclose; fopen; fgets; getpid;
+    setjmp; longjmp;
+  local: *;
+};

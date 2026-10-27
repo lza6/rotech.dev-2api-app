@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>OpenChat 协议 Demo（本地 Mock）</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 760px; margin: 24px auto; padding: 0 16px; background: #111; color: #eee; }
+  h1 { font-size: 20px; } .card { background: #1c1c1e; border-radius: 10px; padding: 16px; margin: 12px 0; }
+  input, textarea, button { font-size: 14px; border-radius: 6px; border: 1px solid #444; background: #2a2a2c; color: #eee; padding: 8px; }
+  button { background: #2f6fed; border: none; cursor: pointer; } button:hover { background: #245ccc; }
+  #chat { min-height: 200px; } .msg { margin: 6px 0; padding: 8px 10px; border-radius: 8px; }
+  .me { background: #2f6fed33; } .bot { background: #ffffff10; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; } td, th { border-bottom: 1px solid #333; padding: 4px; text-align: left; }
+  .row { display: flex; gap: 8px; } .row > * { flex: 1; }
+  code { color: #7fd; font-size: 12px; }
+</style>
+</head>
+<body>
+<h1>OpenChat_Premium 协议 Demo 页（对接本地 Mock）</h1>
+<p>协议：form 表单 <code>data</code> = Base64(AES-256-CBC(JSON, key=md5(sig)[0:16], iv=md5(sig)[16:32]))，与 APK 内 <code>AesUtils</code> 逻辑一致（密钥源替换为本地演示签名）。</p>
+
+<div class="card">
+  <div class="row"><input id="q" placeholder="输入问题…"><button onclick="ask('common_question')">发送</button></div>
+  <div class="row" style="margin-top:8px">
+    <button onclick="loadStats()">刷新压测统计</button>
+    <button onclick="bench()">发起 50 并发压测</button>
+    <button onclick="resetStats()">清零统计</button>
+  </div>
+</div>
+
+<div class="card"><div id="chat"></div></div>
+<div class="card"><h3>Mock 服务统计</h3><div id="stats">（点击"刷新压测统计"加载）</div></div>
+
+<script>
+// 与 mock-server.js 相同的密钥派生
+let KEY,IV;
+(async()=>{const s=await (await fetch('/stats')).json();[KEY,IV]=s.keyPreview.split(':');})();
+const enc=new TextEncoder();
+async function aesEnc(obj){
+  const raw=enc.encode(JSON.stringify(obj));
+  const k=await crypto.subtle.importKey('raw',enc.encode(KEY),'AES-CBC',false,['encrypt']);
+  const ivb=enc.encode(IV);
+  const ct=await crypto.subtle.encrypt({name:'AES-CBC',iv:ivb},k,raw);
+  return btoa(String.fromCharCode(...new Uint8Array(ct)));
+}
+async function aesDec(b64){
+  const bin=Uint8Array.from(atob(b64),c=>c.charCodeAt(0));
+  const k=await crypto.subtle.importKey('raw',enc.encode(KEY),'AES-CBC',false,['decrypt']);
+  const pt=await crypto.subtle.decrypt({name:'AES-CBC',iv:enc.encode(IV)},k,bin);
+  return JSON.parse(new TextDecoder().decode(pt));
+}
+function add(cls,txt){const d=document.createElement('div');d.className='msg '+cls;d.textContent=txt;document.getElementById('chat').appendChild(d);}
+async function ask(ep){
+  const q=document.getElementById('q').value||'你好';
+  add('me',q);document.getElementById('q').value='';
+  const form=new URLSearchParams({data:await aesEnc({uuid:crypto.randomUUID(),question:q,timestamp:Date.now(),lang:'zh_CN',model:'gpt-4o-mini',length:'medium',style:'normal'}),pkg:'demo',modetype:'1',version:'1.0'});
+  try{
+    const r=await fetch('/api/v5/chat/'+ep,{method:'POST',body:form});
+    const j=await r.json();
+    add('bot',j.code===200?JSON.stringify(await aesDec(j.data)):JSON.stringify(j));
+  }catch(e){add('bot','请求失败: '+e)}
+}
+async function bench(){
+  add('bot','发起 50 并发…');
+  const t0=performance.now();
+  const form=await (async()=>{const f=new URLSearchParams({data:await aesEnc({uuid:'bench',question:'loadtest',timestamp:Date.now(),lang:'zh_CN'}),pkg:'demo',modetype:'1',version:'1.0'});return f})();
+  const rs=await Promise.all(Array.from({length:50},()=>fetch('/api/v5/chat/common_question',{method:'POST',body:form})));
+  const ok=rs.filter(r=>r.ok).length;
+  add('bot',`完成：${ok}/50 成功，耗时 ${(performance.now()-t0).toFixed(0)}ms`);
+  loadStats();
+}
+async function loadStats(){
+  const s=await (await fetch('/stats')).json();
+  let html='<table><tr><th>端点</th><th>请求数</th><th>错误</th><th>平均ms</th><th>最大ms</th><th>状态码</th></tr>';
+  for(const [p,v] of Object.entries(s.endpoints)){
+    html+=`<tr><td>${p}</td><td>${v.count}</td><td>${v.errors}</td><td>${(v.sumMs/v.count).toFixed(1)}</td><td>${v.maxMs}</td><td>${JSON.stringify(v.codes)}</td></tr>`;
+  }
+  document.getElementById('stats').innerHTML=html+'</table>';
+}
+async function resetStats(){await fetch('/reset');loadStats();}
+</script>
+</body>
+</html>

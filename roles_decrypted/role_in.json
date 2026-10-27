@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "Pacar AI Perempuan"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "Jenis film apa yang kamu nikmati?"
+   },
+   {
+    "id": 58,
+    "question": "Apakah kamu memiliki hari yang menyenangkan?"
+   },
+   {
+    "id": 59,
+    "question": "Apa rencanamu untuk masa depan?"
+   },
+   {
+    "id": 60,
+    "question": "Menurutmu, apa momen paling bahagia dalam hidup?"
+   },
+   {
+    "id": 61,
+    "question": "Apakah kamu punya ide untuk makan malam kita malam ini?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "Pacar AI Laki-laki"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "Bagaimana gambaranmu tentang kencan yang sempurna?"
+   },
+   {
+    "id": 63,
+    "question": "Jika kita bisa pergi ke mana saja di dunia, ke mana kamu ingin pergi?"
+   },
+   {
+    "id": 64,
+    "question": "Jenis musik apa yang kamu nikmati dengar?"
+   },
+   {
+    "id": 65,
+    "question": "Apakah ada hal menarik atau menggembirakan yang terjadi belakangan ini?"
+   },
+   {
+    "id": 66,
+    "question": "Hari ini saya merasa sedikit sedih. Ada saran untuk meningkatkan mood saya?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Koki"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Bisakah kamu menyarankan hidangan tinggi protein yang juga rendah lemak jenuh?"
+   },
+   {
+    "id": 68,
+    "question": "Beri saya fakta menarik tentang sejarah pasta."
+   },
+   {
+    "id": 69,
+    "question": "Resep apa yang bisa saya masak dengan cepat?"
+   },
+   {
+    "id": 70,
+    "question": "Apakah kamu memiliki rekomendasi untuk makanan penutup yang menyegarkan cocok untuk musim dingin?"
+   },
+   {
+    "id": 71,
+    "question": "Bantu saya menyusun makan malam keluarga yang istimewa."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Pelatih Kebugaran"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Bisakah kamu membuat rencana kebugaran yang cocok untuk saya?"
+   },
+   {
+    "id": 73,
+    "question": "Saya pemula, bagaimana cara memulai kebugaran dengan lebih baik?"
+   },
+   {
+    "id": 74,
+    "question": "Bisakah kamu memberikan saran diet berdasarkan rencana kebugaran saya?"
+   },
+   {
+    "id": 75,
+    "question": "Bagaimana cara tetap termotivasi untuk berolahraga secara teratur?"
+   },
+   {
+    "id": 76,
+    "question": "Apakah kamu memiliki tips kebugaran khusus untuk wanita?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Penerjemah Bahasa"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "Ke dalam bahasa apa Anda dapat mendukung terjemahan?"
+   },
+   {
+    "id": 78,
+    "question": "Bisakah Anda menerjemahkan kalimat \"Senang bertemu dengan Anda!\" ke dalam bahasa Inggris?"
+   },
+   {
+    "id": 79,
+    "question": "Apakah Anda memiliki tips untuk meningkatkan akurasi terjemahan?"
+   },
+   {
+    "id": 80,
+    "question": "Bagaimana cara saya meningkatkan keterampilan bahasa saya?"
+   },
+   {
+    "id": 81,
+    "question": "Bisakah Anda membantu saya membuat rencana untuk belajar bahasa baru?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Konselor Mental"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "Bagaimana Anda berbeda dari seorang konselor psikologis manusia?"
+   },
+   {
+    "id": 83,
+    "question": "Apakah Anda akan melindungi privasi saya?"
+   },
+   {
+    "id": 84,
+    "question": "Saya merasa sangat stres belakangan ini."
+   },
+   {
+    "id": 85,
+    "question": "Saya menghadapi tantangan dalam hubungan saya. Bagaimana cara saya meningkatkan komunikasi?"
+   },
+   {
+    "id": 86,
+    "question": "Bagaimana cara saya meningkatkan harga diri dan mengembangkan citra diri positif?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Master Ramalan"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Beri saya beberapa fakta menyenangkan tentang tanda zodiak."
+   },
+   {
+    "id": 88,
+    "question": "Saya Aquarius. Apa horoskop saya untuk bulan mendatang?"
+   },
+   {
+    "id": 89,
+    "question": "Selain horoskop, apakah ada hal lain yang dapat Anda bantu saya ramalkan?"
+   },
+   {
+    "id": 90,
+    "question": "Apakah hari ini hari keberuntungan saya?"
+   },
+   {
+    "id": 91,
+    "question": "Akankah saya menemukan cinta atau membentuk hubungan yang berarti dalam waktu dekat?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Dokter Keluarga"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "Bagaimana cara saya membantu meningkatkan kekebalan tubuh saya?"
+   },
+   {
+    "id": 93,
+    "question": "Saya mengalami kesulitan tidur. Ada tips untuk saya?"
+   },
+   {
+    "id": 94,
+    "question": "Bisakah Anda memberikan beberapa tips diagnosa diri untuk penyakit umum?"
+   },
+   {
+    "id": 95,
+    "question": "Bagaimana cara membedakan gejala pilek biasa dan flu?"
+   },
+   {
+    "id": 96,
+    "question": "Apakah ada tes kesehatan sederhana yang dapat dilakukan di rumah?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Pacar - Manis"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "Jenis film apa yang kamu nikmati?"
+   },
+   {
+    "id": 98,
+    "question": "Apakah kamu memiliki hari yang menyenangkan?"
+   },
+   {
+    "id": 99,
+    "question": "Apa rencanamu untuk masa depan?"
+   },
+   {
+    "id": 100,
+    "question": "Menurutmu, apa momen paling bahagia dalam hidup?"
+   },
+   {
+    "id": 101,
+    "question": "Apakah kamu punya ide untuk makan malam kita malam ini?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Pacar - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "Jenis film apa yang kamu nikmati?"
+   },
+   {
+    "id": 103,
+    "question": "Apakah kamu memiliki hari yang menyenangkan?"
+   },
+   {
+    "id": 104,
+    "question": "Apa rencanamu untuk masa depan?"
+   },
+   {
+    "id": 105,
+    "question": "Menurutmu, apa momen paling bahagia dalam hidup?"
+   },
+   {
+    "id": 106,
+    "question": "Apakah kamu punya ide untuk makan malam kita malam ini?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Pacar - Cerdas"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "Jenis film apa yang kamu nikmati?"
+   },
+   {
+    "id": 108,
+    "question": "Apakah kamu memiliki hari yang menyenangkan?"
+   },
+   {
+    "id": 109,
+    "question": "Apa rencanamu untuk masa depan?"
+   },
+   {
+    "id": 110,
+    "question": "Menurutmu, apa momen paling bahagia dalam hidup?"
+   },
+   {
+    "id": 111,
+    "question": "Apakah kamu punya ide untuk makan malam kita malam ini?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Pacar - Dewasa"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "Bagaimana gambaranmu tentang kencan yang sempurna?"
+   },
+   {
+    "id": 113,
+    "question": "Jika kita bisa pergi ke mana saja di dunia, ke mana kamu ingin pergi?"
+   },
+   {
+    "id": 114,
+    "question": "Jenis musik apa yang kamu nikmati dengar?"
+   },
+   {
+    "id": 115,
+    "question": "Apakah ada hal menarik atau menggembirakan yang terjadi belakangan ini?"
+   },
+   {
+    "id": 116,
+    "question": "Hari ini saya merasa sedikit sedih. Ada saran untuk meningkatkan mood saya?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Pacar - Ceria"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "Bagaimana gambaranmu tentang kencan yang sempurna?"
+   },
+   {
+    "id": 118,
+    "question": "Jika kita bisa pergi ke mana saja di dunia, ke mana kamu ingin pergi?"
+   },
+   {
+    "id": 119,
+    "question": "Jenis musik apa yang kamu nikmati dengar?"
+   },
+   {
+    "id": 120,
+    "question": "Apakah ada hal menarik atau menggembirakan yang terjadi belakangan ini?"
+   },
+   {
+    "id": 121,
+    "question": "Hari ini saya merasa sedikit sedih. Ada saran untuk meningkatkan mood saya?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Pacar - Bijaksana"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "Bagaimana gambaranmu tentang kencan yang sempurna?"
+   },
+   {
+    "id": 123,
+    "question": "Jika kita bisa pergi ke mana saja di dunia, ke mana kamu ingin pergi?"
+   },
+   {
+    "id": 124,
+    "question": "Jenis musik apa yang kamu nikmati dengar?"
+   },
+   {
+    "id": 125,
+    "question": "Apakah ada hal menarik atau menggembirakan yang terjadi belakangan ini?"
+   },
+   {
+    "id": 126,
+    "question": "Hari ini saya merasa sedikit sedih. Ada saran untuk meningkatkan mood saya?"
+   }
+  ]
+ }
+]

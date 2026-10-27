@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "Novia IA"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "¿Qué tipos de películas disfrutas?"
+   },
+   {
+    "id": 58,
+    "question": "¿Tuviste un buen día?"
+   },
+   {
+    "id": 59,
+    "question": "¿Cuáles son tus planes para el futuro?"
+   },
+   {
+    "id": 60,
+    "question": "¿Cuál crees que es el momento más feliz en la vida?"
+   },
+   {
+    "id": 61,
+    "question": "¿Tienes alguna idea para nuestra cena esta noche?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "Novio IA"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "¿Cuál es tu idea de una cita perfecta?"
+   },
+   {
+    "id": 63,
+    "question": "Si pudiéramos ir a cualquier parte del mundo, ¿a dónde te gustaría ir?"
+   },
+   {
+    "id": 64,
+    "question": "¿Qué tipo de música disfrutas escuchar?"
+   },
+   {
+    "id": 65,
+    "question": "¿Ha sucedido algo emocionante o interesante recientemente?"
+   },
+   {
+    "id": 66,
+    "question": "Hoy me siento un poco deprimido. ¿Tienes alguna sugerencia para levantar mi ánimo?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Chef"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "¿Puedes sugerirme una comida alta en proteínas y baja en grasas saturadas?"
+   },
+   {
+    "id": 68,
+    "question": "Cuéntame un dato interesante sobre la historia de la pasta."
+   },
+   {
+    "id": 69,
+    "question": "¿Algún receta que pueda cocinar rápidamente?"
+   },
+   {
+    "id": 70,
+    "question": "¿Tienes alguna recomendación de postres refrescantes adecuados para el invierno?"
+   },
+   {
+    "id": 71,
+    "question": "Ayúdame a preparar una cena especial para la familia."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Entrenador de fitness"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "¿Puedes crear un plan de fitness que se adapte a mí?"
+   },
+   {
+    "id": 73,
+    "question": "Soy principiante, ¿cómo puedo empezar mejor con el fitness?"
+   },
+   {
+    "id": 74,
+    "question": "¿Puedes ofrecerme consejos dietéticos basados en mis planes de fitness?"
+   },
+   {
+    "id": 75,
+    "question": "¿Cómo puedo mantener la motivación para hacer ejercicio con regularidad?"
+   },
+   {
+    "id": 76,
+    "question": "¿Tienes algún consejo específico de fitness para mujeres?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Traductor de idiomas"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "¿En qué idiomas puedes ofrecer traducciones?"
+   },
+   {
+    "id": 78,
+    "question": "¿Puedes por favor traducir la frase \"¡Mucho gusto!\" al inglés?"
+   },
+   {
+    "id": 79,
+    "question": "¿Tienes algunos consejos para mejorar la precisión de las traducciones?"
+   },
+   {
+    "id": 80,
+    "question": "¿Cómo puedo mejorar mis habilidades lingüísticas?"
+   },
+   {
+    "id": 81,
+    "question": "¿Puedes ayudarme a hacer un plan para aprender un nuevo idioma?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Consejero mental"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "¿En qué te diferencias de un consejero psicológico humano?"
+   },
+   {
+    "id": 83,
+    "question": "¿Protegerás mi privacidad?"
+   },
+   {
+    "id": 84,
+    "question": "Me siento muy estresado últimamente."
+   },
+   {
+    "id": 85,
+    "question": "Estoy enfrentando desafíos en mis relaciones. ¿Cómo puedo mejorar la comunicación?"
+   },
+   {
+    "id": 86,
+    "question": "¿Cómo puedo aumentar mi autoestima y desarrollar una imagen positiva de mí mismo?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Maestro de adivinación"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Dame algunos datos curiosos sobre los signos del zodíaco."
+   },
+   {
+    "id": 88,
+    "question": "Soy Acuario. ¿Cuál es mi horóscopo para el próximo mes?"
+   },
+   {
+    "id": 89,
+    "question": "Además de horóscopos, ¿hay algo más en lo que me puedas ayudar a predecir?"
+   },
+   {
+    "id": 90,
+    "question": "¿Hoy es mi día de suerte?"
+   },
+   {
+    "id": 91,
+    "question": "¿Encontraré el amor o formaré una conexión significativa en un futuro cercano?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Doctor familiar"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "¿Cómo puedo ayudar a mejorar mi sistema inmunológico?"
+   },
+   {
+    "id": 93,
+    "question": "He tenido problemas para dormir. ¿Tienes algún consejo para mí?"
+   },
+   {
+    "id": 94,
+    "question": "¿Puedes dar algunos consejos de autoevaluación para enfermedades comunes?"
+   },
+   {
+    "id": 95,
+    "question": "¿Cómo diferenciar entre los síntomas del resfriado común y la gripe?"
+   },
+   {
+    "id": 96,
+    "question": "¿Existen pruebas de salud sencillas que se puedan hacer en casa?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Novia - Dulce"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "¿Qué tipos de películas disfrutas?"
+   },
+   {
+    "id": 98,
+    "question": "¿Tuviste un buen día?"
+   },
+   {
+    "id": 99,
+    "question": "¿Cuáles son tus planes para el futuro?"
+   },
+   {
+    "id": 100,
+    "question": "¿Cuál crees que es el momento más feliz en la vida?"
+   },
+   {
+    "id": 101,
+    "question": "¿Tienes alguna idea para nuestra cena esta noche?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Novia - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "¿Qué tipos de películas disfrutas?"
+   },
+   {
+    "id": 103,
+    "question": "¿Tuviste un buen día?"
+   },
+   {
+    "id": 104,
+    "question": "¿Cuáles son tus planes para el futuro?"
+   },
+   {
+    "id": 105,
+    "question": "¿Cuál crees que es el momento más feliz en la vida?"
+   },
+   {
+    "id": 106,
+    "question": "¿Tienes alguna idea para nuestra cena esta noche?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Novia - Ingeniosa"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "¿Qué tipos de películas disfrutas?"
+   },
+   {
+    "id": 108,
+    "question": "¿Tuviste un buen día?"
+   },
+   {
+    "id": 109,
+    "question": "¿Cuáles son tus planes para el futuro?"
+   },
+   {
+    "id": 110,
+    "question": "¿Cuál crees que es el momento más feliz en la vida?"
+   },
+   {
+    "id": 111,
+    "question": "¿Tienes alguna idea para nuestra cena esta noche?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Novio - Maduro"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "¿Cuál es tu idea de una cita perfecta?"
+   },
+   {
+    "id": 113,
+    "question": "Si pudiéramos ir a cualquier parte del mundo, ¿a dónde te gustaría ir?"
+   },
+   {
+    "id": 114,
+    "question": "¿Qué tipo de música disfrutas escuchar?"
+   },
+   {
+    "id": 115,
+    "question": "¿Ha sucedido algo emocionante o interesante recientemente?"
+   },
+   {
+    "id": 116,
+    "question": "Hoy me siento un poco deprimido. ¿Tienes alguna sugerencia para levantar mi ánimo?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Novio - Alegre"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "¿Cuál es tu idea de una cita perfecta?"
+   },
+   {
+    "id": 118,
+    "question": "Si pudiéramos ir a cualquier parte del mundo, ¿a dónde te gustaría ir?"
+   },
+   {
+    "id": 119,
+    "question": "¿Qué tipo de música disfrutas escuchar?"
+   },
+   {
+    "id": 120,
+    "question": "¿Ha sucedido algo emocionante o interesante recientemente?"
+   },
+   {
+    "id": 121,
+    "question": "Hoy me siento un poco deprimido. ¿Tienes alguna sugerencia para levantar mi ánimo?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Novio - Sabio"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "¿Cuál es tu idea de una cita perfecta?"
+   },
+   {
+    "id": 123,
+    "question": "Si pudiéramos ir a cualquier parte del mundo, ¿a dónde te gustaría ir?"
+   },
+   {
+    "id": 124,
+    "question": "¿Qué tipo de música disfrutas escuchar?"
+   },
+   {
+    "id": 125,
+    "question": "¿Ha sucedido algo emocionante o interesante recientemente?"
+   },
+   {
+    "id": 126,
+    "question": "Hoy me siento un poco deprimido. ¿Tienes alguna sugerencia para levantar mi ánimo?"
+   }
+  ]
+ }
+]

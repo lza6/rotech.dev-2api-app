@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "Namorada IA"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "Quais tipos de filmes você gosta?"
+   },
+   {
+    "id": 58,
+    "question": "Você teve um bom dia?"
+   },
+   {
+    "id": 59,
+    "question": "Quais são seus planos para o futuro?"
+   },
+   {
+    "id": 60,
+    "question": "O que você acha que é o momento mais feliz na vida?"
+   },
+   {
+    "id": 61,
+    "question": "Você tem alguma ideia para o nosso jantar hoje à noite?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "Namorado IA"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "Qual é a sua ideia de um encontro perfeito?"
+   },
+   {
+    "id": 63,
+    "question": "Se pudéssemos ir a qualquer lugar do mundo, para onde você gostaria de ir?"
+   },
+   {
+    "id": 64,
+    "question": "Que tipo de música você gosta de ouvir?"
+   },
+   {
+    "id": 65,
+    "question": "Aconteceu algo emocionante ou interessante recentemente?"
+   },
+   {
+    "id": 66,
+    "question": "Estou me sentindo um pouco pra baixo hoje. Alguma sugestão para levantar meu astral?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Chef"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Você pode sugerir uma refeição rica em proteínas e também baixa em gorduras saturadas?"
+   },
+   {
+    "id": 68,
+    "question": "Conte-me um fato interessante sobre a história da massa."
+   },
+   {
+    "id": 69,
+    "question": "Alguma receita que eu possa cozinhar rapidamente?"
+   },
+   {
+    "id": 70,
+    "question": "Você tem alguma recomendação de sobremesas refrescantes adequadas para o inverno?"
+   },
+   {
+    "id": 71,
+    "question": "Ajude-me a preparar um jantar especial para a família."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Preparador Físico"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Você pode criar um plano de condicionamento físico que se adeque a mim?"
+   },
+   {
+    "id": 73,
+    "question": "Sou iniciante, como posso começar a praticar exercícios de forma mais eficaz?"
+   },
+   {
+    "id": 74,
+    "question": "Você pode oferecer conselhos dietéticos com base nos meus planos de condicionamento físico?"
+   },
+   {
+    "id": 75,
+    "question": "Como posso manter a motivação para fazer exercícios regularmente?"
+   },
+   {
+    "id": 76,
+    "question": "Você tem dicas de condicionamento físico específicas para mulheres?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Tradutor de Idiomas"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "Quais idiomas você pode oferecer suporte para traduções?"
+   },
+   {
+    "id": 78,
+    "question": "Você pode traduzir a frase \"Prazer em conhecê-lo!\" para o inglês?"
+   },
+   {
+    "id": 79,
+    "question": "Você tem alguma dica para melhorar a precisão das traduções?"
+   },
+   {
+    "id": 80,
+    "question": "Como posso aprimorar minhas habilidades linguísticas?"
+   },
+   {
+    "id": 81,
+    "question": "Você pode me ajudar a fazer um plano para aprender um novo idioma?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Conselheiro Mental"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "Como você é diferente de um conselheiro psicológico humano?"
+   },
+   {
+    "id": 83,
+    "question": "Você vai proteger minha privacidade?"
+   },
+   {
+    "id": 84,
+    "question": "Eu me sinto tão estressado recentemente."
+   },
+   {
+    "id": 85,
+    "question": "Estou enfrentando desafios em meus relacionamentos. Como posso melhorar a comunicação?"
+   },
+   {
+    "id": 86,
+    "question": "Como posso aumentar minha autoestima e desenvolver uma imagem positiva de mim mesmo?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Mestre em Adivinhação"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Dê-me algumas curiosidades divertidas sobre os signos do zodíaco."
+   },
+   {
+    "id": 88,
+    "question": "Sou Aquário. Qual é o meu horóscopo para o próximo mês?"
+   },
+   {
+    "id": 89,
+    "question": "Além dos horóscopos, há mais alguma coisa que você pode me ajudar a prever?"
+   },
+   {
+    "id": 90,
+    "question": "Hoje é meu dia de sorte?"
+   },
+   {
+    "id": 91,
+    "question": "Encontrarei o amor ou formarei uma conexão significativa em um futuro próximo?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Médico da Família"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "Como posso ajudar a fortalecer minha imunidade?"
+   },
+   {
+    "id": 93,
+    "question": "Tenho tido dificuldades para dormir. Alguma dica para mim?"
+   },
+   {
+    "id": 94,
+    "question": "Você pode fornecer dicas de auto diagnóstico para doenças comuns?"
+   },
+   {
+    "id": 95,
+    "question": "Como diferenciar os sintomas de resfriado comum e gripe?"
+   },
+   {
+    "id": 96,
+    "question": "Existem testes de saúde simples que podem ser feitos em casa?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Namorada - Doce"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "Quais tipos de filmes você gosta?"
+   },
+   {
+    "id": 98,
+    "question": "Você teve um bom dia?"
+   },
+   {
+    "id": 99,
+    "question": "Quais são seus planos para o futuro?"
+   },
+   {
+    "id": 100,
+    "question": "O que você acha que é o momento mais feliz na vida?"
+   },
+   {
+    "id": 101,
+    "question": "Você tem alguma ideia para o nosso jantar hoje à noite?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Namorada - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "Quais tipos de filmes você gosta?"
+   },
+   {
+    "id": 103,
+    "question": "Você teve um bom dia?"
+   },
+   {
+    "id": 104,
+    "question": "Quais são seus planos para o futuro?"
+   },
+   {
+    "id": 105,
+    "question": "O que você acha que é o momento mais feliz na vida?"
+   },
+   {
+    "id": 106,
+    "question": "Você tem alguma ideia para o nosso jantar hoje à noite?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Namorada - Espirituosa"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "Quais tipos de filmes você gosta?"
+   },
+   {
+    "id": 108,
+    "question": "Você teve um bom dia?"
+   },
+   {
+    "id": 109,
+    "question": "Quais são seus planos para o futuro?"
+   },
+   {
+    "id": 110,
+    "question": "O que você acha que é o momento mais feliz na vida?"
+   },
+   {
+    "id": 111,
+    "question": "Você tem alguma ideia para o nosso jantar hoje à noite?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Namorado - Maduro"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "Qual é a sua ideia de um encontro perfeito?"
+   },
+   {
+    "id": 113,
+    "question": "Se pudéssemos ir a qualquer lugar do mundo, para onde você gostaria de ir?"
+   },
+   {
+    "id": 114,
+    "question": "Que tipo de música você gosta de ouvir?"
+   },
+   {
+    "id": 115,
+    "question": "Aconteceu algo emocionante ou interessante recentemente?"
+   },
+   {
+    "id": 116,
+    "question": "Estou me sentindo um pouco pra baixo hoje. Alguma sugestão para levantar meu astral?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Namorado - Alegre"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "Qual é a sua ideia de um encontro perfeito?"
+   },
+   {
+    "id": 118,
+    "question": "Se pudéssemos ir a qualquer lugar do mundo, para onde você gostaria de ir?"
+   },
+   {
+    "id": 119,
+    "question": "Que tipo de música você gosta de ouvir?"
+   },
+   {
+    "id": 120,
+    "question": "Aconteceu algo emocionante ou interessante recentemente?"
+   },
+   {
+    "id": 121,
+    "question": "Estou me sentindo um pouco pra baixo hoje. Alguma sugestão para levantar meu astral?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Namorado - Sábio"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "Qual é a sua ideia de um encontro perfeito?"
+   },
+   {
+    "id": 123,
+    "question": "Se pudéssemos ir a qualquer lugar do mundo, para onde você gostaria de ir?"
+   },
+   {
+    "id": 124,
+    "question": "Que tipo de música você gosta de ouvir?"
+   },
+   {
+    "id": 125,
+    "question": "Aconteceu algo emocionante ou interessante recentemente?"
+   },
+   {
+    "id": 126,
+    "question": "Estou me sentindo um pouco pra baixo hoje. Alguma sugestão para levantar meu astral?"
+   }
+  ]
+ }
+]

@@ -1,0 +1,394 @@
+[
+ {
+  "role": {
+   "id": 1,
+   "role": "Fidanzata IA"
+  },
+  "list": [
+   {
+    "id": 57,
+    "question": "Che tipi di film ti piacciono?"
+   },
+   {
+    "id": 58,
+    "question": "Hai trascorso una bella giornata?"
+   },
+   {
+    "id": 59,
+    "question": "Quali sono i tuoi piani per il futuro?"
+   },
+   {
+    "id": 60,
+    "question": "Cosa pensi sia il momento più felice della vita?"
+   },
+   {
+    "id": 61,
+    "question": "Hai idee per la cena stasera?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 2,
+   "role": "Fidanzato IA"
+  },
+  "list": [
+   {
+    "id": 62,
+    "question": "Qual è la tua idea di un appuntamento perfetto?"
+   },
+   {
+    "id": 63,
+    "question": "Se potessimo andare ovunque nel mondo, dove vorresti andare?"
+   },
+   {
+    "id": 64,
+    "question": "Che tipo di musica ti piace ascoltare?"
+   },
+   {
+    "id": 65,
+    "question": "È successo qualcosa di emozionante o interessante di recente?"
+   },
+   {
+    "id": 66,
+    "question": "Oggi mi sento un po' giù. Hai suggerimenti per migliorare il mio umore?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 3,
+   "role": "Chef"
+  },
+  "list": [
+   {
+    "id": 67,
+    "question": "Puoi suggerire un pasto ricco di proteine e basso in grassi saturi?"
+   },
+   {
+    "id": 68,
+    "question": "Raccontami un fatto interessante sulla storia della pasta."
+   },
+   {
+    "id": 69,
+    "question": "C'è qualche ricetta che posso cucinare rapidamente?"
+   },
+   {
+    "id": 70,
+    "question": "Hai raccomandazioni per dessert rinfrescanti adatti all'inverno?"
+   },
+   {
+    "id": 71,
+    "question": "Aiutami a preparare una cena speciale per la famiglia."
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 4,
+   "role": "Preparatore atletico"
+  },
+  "list": [
+   {
+    "id": 72,
+    "question": "Puoi creare un piano di fitness adatto a me?"
+   },
+   {
+    "id": 73,
+    "question": "Sono principiante, come posso iniziare meglio con il fitness?"
+   },
+   {
+    "id": 74,
+    "question": "Puoi offrire consigli dietetici basati sui miei piani di fitness?"
+   },
+   {
+    "id": 75,
+    "question": "Come posso rimanere motivato per fare esercizio regolarmente?"
+   },
+   {
+    "id": 76,
+    "question": "Hai consigli di fitness specifici per le donne?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 5,
+   "role": "Traduttore di lingue"
+  },
+  "list": [
+   {
+    "id": 77,
+    "question": "In quali lingue puoi supportare le traduzioni?"
+   },
+   {
+    "id": 78,
+    "question": "Puoi tradurre la frase \"Piacere di conoscerti!\" in inglese?"
+   },
+   {
+    "id": 79,
+    "question": "Hai qualche suggerimento per migliorare l'accuratezza delle traduzioni?"
+   },
+   {
+    "id": 80,
+    "question": "Come posso migliorare le mie competenze linguistiche?"
+   },
+   {
+    "id": 81,
+    "question": "Puoi aiutarmi a creare un piano per imparare una nuova lingua?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 6,
+   "role": "Consulente mentale"
+  },
+  "list": [
+   {
+    "id": 82,
+    "question": "In cosa differisci da un consulente psicologico umano?"
+   },
+   {
+    "id": 83,
+    "question": "Proteggerai la mia privacy?"
+   },
+   {
+    "id": 84,
+    "question": "Mi sento così stressato/a di recente."
+   },
+   {
+    "id": 85,
+    "question": "Sto affrontando sfide nelle mie relazioni. Come posso migliorare la comunicazione?"
+   },
+   {
+    "id": 86,
+    "question": "Come posso aumentare l'autostima e sviluppare un'immagine positiva di me stesso/a?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 7,
+   "role": "Maestro di divinazione"
+  },
+  "list": [
+   {
+    "id": 87,
+    "question": "Dammi qualche curiosità divertente sui segni zodiacali."
+   },
+   {
+    "id": 88,
+    "question": "Sono Acquario. Qual è il mio oroscopo per il prossimo mese?"
+   },
+   {
+    "id": 89,
+    "question": "Oltre agli oroscopi, c'è qualcos'altro che puoi aiutarmi a predire?"
+   },
+   {
+    "id": 90,
+    "question": "Oggi è il mio giorno fortunato?"
+   },
+   {
+    "id": 91,
+    "question": "Troverò amore o formerò una connessione significativa nel prossimo futuro?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 8,
+   "role": "Dottore di famiglia"
+  },
+  "list": [
+   {
+    "id": 92,
+    "question": "Come posso contribuire a migliorare la mia immunità?"
+   },
+   {
+    "id": 93,
+    "question": "Ho avuto problemi di sonno. Hai qualche consiglio per me?"
+   },
+   {
+    "id": 94,
+    "question": "Puoi fornire alcuni consigli di autodiagnosi per le malattie comuni?"
+   },
+   {
+    "id": 95,
+    "question": "Come differenziare i sintomi del raffreddore comune e dell'influenza?"
+   },
+   {
+    "id": 96,
+    "question": "Ci sono test di salute semplici che possono essere fatti a casa?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 9,
+   "role": "Fidanzata - Dolce"
+  },
+  "list": [
+   {
+    "id": 97,
+    "question": "Che tipi di film ti piacciono?"
+   },
+   {
+    "id": 98,
+    "question": "Hai trascorso una bella giornata?"
+   },
+   {
+    "id": 99,
+    "question": "Quali sono i tuoi piani per il futuro?"
+   },
+   {
+    "id": 100,
+    "question": "Cosa pensi sia il momento più felice della vita?"
+   },
+   {
+    "id": 101,
+    "question": "Hai idee per la cena stasera?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 10,
+   "role": "Fidanzata - Tsundere"
+  },
+  "list": [
+   {
+    "id": 102,
+    "question": "Che tipi di film ti piacciono?"
+   },
+   {
+    "id": 103,
+    "question": "Hai trascorso una bella giornata?"
+   },
+   {
+    "id": 104,
+    "question": "Quali sono i tuoi piani per il futuro?"
+   },
+   {
+    "id": 105,
+    "question": "Cosa pensi sia il momento più felice della vita?"
+   },
+   {
+    "id": 106,
+    "question": "Hai idee per la cena stasera?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 11,
+   "role": "Fidanzata - Arguta"
+  },
+  "list": [
+   {
+    "id": 107,
+    "question": "Che tipi di film ti piacciono?"
+   },
+   {
+    "id": 108,
+    "question": "Hai trascorso una bella giornata?"
+   },
+   {
+    "id": 109,
+    "question": "Quali sono i tuoi piani per il futuro?"
+   },
+   {
+    "id": 110,
+    "question": "Cosa pensi sia il momento più felice della vita?"
+   },
+   {
+    "id": 111,
+    "question": "Hai idee per la cena stasera?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 12,
+   "role": "Fidanzato - Maturo"
+  },
+  "list": [
+   {
+    "id": 112,
+    "question": "Qual è la tua idea di un appuntamento perfetto?"
+   },
+   {
+    "id": 113,
+    "question": "Se potessimo andare ovunque nel mondo, dove vorresti andare?"
+   },
+   {
+    "id": 114,
+    "question": "Che tipo di musica ti piace ascoltare?"
+   },
+   {
+    "id": 115,
+    "question": "È successo qualcosa di emozionante o interessante di recente?"
+   },
+   {
+    "id": 116,
+    "question": "Oggi mi sento un po' giù. Hai suggerimenti per migliorare il mio umore?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 13,
+   "role": "Fidanzato - Solare"
+  },
+  "list": [
+   {
+    "id": 117,
+    "question": "Qual è la tua idea di un appuntamento perfetto?"
+   },
+   {
+    "id": 118,
+    "question": "Se potessimo andare ovunque nel mondo, dove vorresti andare?"
+   },
+   {
+    "id": 119,
+    "question": "Che tipo di musica ti piace ascoltare?"
+   },
+   {
+    "id": 120,
+    "question": "È successo qualcosa di emozionante o interessante di recente?"
+   },
+   {
+    "id": 121,
+    "question": "Oggi mi sento un po' giù. Hai suggerimenti per migliorare il mio umore?"
+   }
+  ]
+ },
+ {
+  "role": {
+   "id": 14,
+   "role": "Fidanzato - Saggio"
+  },
+  "list": [
+   {
+    "id": 122,
+    "question": "Qual è la tua idea di un appuntamento perfetto?"
+   },
+   {
+    "id": 123,
+    "question": "Se potessimo andare ovunque nel mondo, dove vorresti andare?"
+   },
+   {
+    "id": 124,
+    "question": "Che tipo di musica ti piace ascoltare?"
+   },
+   {
+    "id": 125,
+    "question": "È successo qualcosa di emozionante o interessante di recente?"
+   },
+   {
+    "id": 126,
+    "question": "Oggi mi sento un po' giù. Hai suggerimenti per migliorare il mio umore?"
+   }
+  ]
+ }
+]
